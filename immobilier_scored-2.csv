@@ -1,0 +1,822 @@
+ville,code_postal,departement,type_bien,type_transaction,source,surface,prix,nb_pieces,nb_chambres,prix_m2,prix_m2_predit,ecart_pct,score_marche
+Saint-cloud,92210,92,Maison,vente,pap,170.0,1460000.0,3.0,5.0,8588.24,6314.31,36.01,Sur-evalue
+Grimaud,83310,83,Maison,vente,pap,215.0,1390000.0,6.0,5.0,6465.12,3394.41,90.46,Sur-evalue
+Hyères,83400,83,Maison,vente,orpi,165.0,1390000.0,9.0,1.0,8424.24,2564.03,228.55,Sur-evalue
+Garches,92380,92,Maison,vente,pap,150.0,1090000.0,3.0,4.0,7266.67,6402.06,13.51,Prix marche
+Courbevoie,92400,92,Maison,vente,pap,120.0,949000.0,3.0,3.0,7908.33,6402.06,23.53,Sur-evalue
+Garches,92380,92,Maison,vente,pap,150.0,940000.0,3.0,4.0,6266.67,6402.06,-2.11,Prix marche
+Rueil-malmaison,92500,92,Maison,vente,pap,151.0,842900.0,3.0,5.0,5582.12,6402.06,-12.81,Prix marche
+Arzon,56640,56,Maison,vente,orpi,100.0,819500.0,5.0,1.0,8195.0,2992.78,173.83,Sur-evalue
+Antony,92160,92,Maison,vente,pap,183.0,810000.0,3.0,4.0,4426.23,6314.31,-29.9,Sous-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,128.0,756900.0,3.0,3.0,5913.28,3923.88,50.7,Sur-evalue
+Saint-pierre,97400,97,Maison,vente,pap,153.0,755000.0,6.0,4.0,4934.64,3482.16,41.71,Sur-evalue
+Maisons-alfort,94700,94,Maison,vente,pap,103.0,730900.0,3.0,4.0,7096.12,4550.6,55.94,Sur-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,170.0,720000.0,3.0,5.0,4235.29,3836.13,10.41,Prix marche
+Bons,74890,74,Maison,vente,orpi,204.0,719000.0,8.0,1.0,3524.51,3160.71,11.51,Prix marche
+Plessis-robinson,92350,92,Maison,vente,pap,90.0,703900.0,3.0,4.0,7821.11,6446.93,21.32,Sur-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,158.0,599999.0,3.0,5.0,3797.46,4462.85,-14.91,Prix marche
+Toulon,83200,83,Maison,vente,pap,156.0,595000.0,6.0,5.0,3814.1,3394.41,12.36,Prix marche
+Maisons-alfort,94700,94,Maison,vente,pap,100.0,590000.0,3.0,3.0,5900.0,4720.32,24.99,Sur-evalue
+Revest-les-eaux,83200,83,Maison,vente,pap,182.0,577000.0,6.0,4.0,3170.33,3394.41,-6.6,Prix marche
+Tampon,97430,97,Maison,vente,pap,200.0,540000.0,6.0,3.0,2700.0,3394.41,-20.46,Sous-evalue
+Villejuif,94800,94,Maison,vente,pap,132.0,539126.0,3.0,5.0,4084.29,4550.6,-10.25,Prix marche
+Groslay,95410,95,Maison,vente,pap,179.0,539000.0,6.0,4.0,3011.17,3394.41,-11.29,Prix marche
+Palaiseau,91120,91,Maison,vente,pap,107.0,535000.0,4.0,3.0,5000.0,3966.63,26.05,Sur-evalue
+Châtenay-malabry,92290,92,Maison,vente,pap,101.0,476900.0,3.0,3.0,4721.78,6446.93,-26.76,Sous-evalue
+Arras,62000,62,Maison,vente,orpi,230.0,473250.0,8.0,1.0,2057.61,2114.46,-2.69,Prix marche
+Saint,31140,31,Maison,vente,orpi,190.0,473200.0,5.0,1.0,2490.53,2860.15,-12.92,Prix marche
+Barbentane,13570,13,Maison,vente,orpi,180.0,472500.0,6.0,1.0,2625.0,2564.03,2.38,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,132.0,466800.0,3.0,5.0,3536.36,4550.6,-22.29,Sous-evalue
+Argenteuil,95100,95,Maison,vente,pap,110.0,456900.0,3.0,4.0,4153.64,3966.63,4.71,Prix marche
+Haÿ-les-roses,94240,94,Maison,vente,pap,90.0,453900.0,3.0,4.0,5043.33,4720.32,6.84,Prix marche
+Gaillon,27600,27,Maison,vente,orpi,160.0,450000.0,6.0,1.0,2812.5,2564.03,9.69,Prix marche
+Épinay-sur-seine,93800,93,Maison,vente,pap,90.0,442900.0,3.0,4.0,4921.11,4205.8,17.01,Sur-evalue
+Pérenchies,59840,59,Maison,vente,orpi,160.0,439900.0,5.0,1.0,2749.38,2860.15,-3.87,Prix marche
+Pizay,01120,01,Maison,vente,orpi,111.0,439000.0,4.0,1.0,3954.95,2947.91,34.16,Sur-evalue
+Saulx-les-chartreux,91160,91,Maison,vente,pap,170.0,430000.0,6.0,3.0,2529.41,3394.41,-25.48,Sous-evalue
+Épinay-sur-seine,93800,93,Maison,vente,pap,102.0,429000.0,3.0,4.0,4205.88,3923.88,7.19,Prix marche
+Commensacq,40210,40,Maison,vente,orpi,218.0,425000.0,6.0,1.0,1949.54,2564.03,-23.97,Sous-evalue
+Saint,69440,69,Maison,vente,orpi,145.0,425000.0,6.0,1.0,2931.03,2651.78,10.53,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,103.0,414900.0,3.0,4.0,4028.16,4550.6,-11.48,Prix marche
+Apt,84400,84,Maison,vente,pap,163.0,410000.0,5.0,3.0,2515.34,3878.88,-35.15,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,97.0,405000.0,3.0,3.0,4175.26,4011.5,4.08,Prix marche
+Drancy,93700,93,Maison,vente,pap,126.0,400900.0,3.0,4.0,3181.75,3923.88,-18.91,Sous-evalue
+Cannes,06150,06,Maison,vente,orpi,100.0,399000.0,3.0,1.0,3990.0,4198.99,-4.98,Prix marche
+Argenteuil,95100,95,Maison,vente,pap,106.0,397000.0,3.0,3.0,3745.28,3966.63,-5.58,Prix marche
+Neuilly-plaisance,93360,93,Maison,vente,pap,130.0,394000.0,3.0,4.0,3030.77,3923.88,-22.76,Sous-evalue
+Créteil,94000,94,Maison,vente,pap,103.0,388900.0,3.0,4.0,3775.73,4550.6,-17.03,Sous-evalue
+Fresnes,94260,94,Maison,vente,pap,104.0,388400.0,3.0,4.0,3734.62,4550.6,-17.93,Sous-evalue
+Marseille,13010,13,Maison,vente,pap,142.0,380000.0,6.0,4.0,2676.06,3482.16,-23.15,Sous-evalue
+Saint-paul,97400,97,Maison,vente,pap,101.0,380000.0,4.0,3.0,3762.38,4011.5,-6.21,Prix marche
+Geishouse,68690,68,Maison,vente,orpi,113.0,379000.0,4.0,1.0,3353.98,2947.91,13.78,Prix marche
+Bezons,95870,95,Maison,vente,pap,110.0,376000.0,3.0,4.0,3418.18,3966.63,-13.83,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,95.0,371900.0,3.0,4.0,3914.74,4720.32,-17.07,Sous-evalue
+Bobigny,93000,93,Maison,vente,pap,110.0,370000.0,3.0,4.0,3363.64,3923.88,-14.28,Prix marche
+Bezons,95870,95,Maison,vente,pap,97.0,370000.0,3.0,3.0,3814.43,4011.5,-4.91,Prix marche
+Échillais,17620,17,Maison,vente,orpi,135.0,369250.0,4.0,1.0,2735.19,3130.44,-12.63,Prix marche
+Antony,92160,92,Maison,vente,pap,90.0,365900.0,3.0,4.0,4065.56,6446.93,-36.94,Sous-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,96.0,360900.0,3.0,3.0,3759.38,4720.32,-20.36,Sous-evalue
+La Tour-du-crieu,09100,09,Maison,vente,entreparticuliers,230.0,360000.0,6.0,1.0,1565.22,3138.41,-50.13,Sous-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,110.0,359690.0,3.0,4.0,3269.91,3923.88,-16.67,Sous-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,95.0,349900.0,3.0,4.0,3683.16,4720.32,-21.97,Sous-evalue
+Gap,05000,05,Maison,vente,orpi,90.0,349000.0,4.0,1.0,3877.78,2992.78,29.57,Sur-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,78.0,347900.0,3.0,3.0,4460.26,4720.32,-5.51,Prix marche
+Bezons,95870,95,Maison,vente,pap,93.0,344000.0,3.0,3.0,3698.92,4011.5,-7.79,Prix marche
+Blagnac,31700,31,Maison,vente,orpi,111.0,340000.0,5.0,1.0,3063.06,2947.91,3.91,Prix marche
+Courtry,77181,77,Maison,vente,orpi,115.0,335000.0,6.0,1.0,2913.04,2651.78,9.85,Prix marche
+Villejuif,94800,94,Maison,vente,pap,90.0,333900.0,3.0,4.0,3710.0,4720.32,-21.4,Sous-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,78.0,332900.0,3.0,3.0,4267.95,4720.32,-9.58,Prix marche
+Auterive,31190,31,Maison,vente,orpi,158.0,329000.0,4.0,1.0,2082.28,2860.15,-27.2,Sous-evalue
+Toulouse,31200,31,Maison,vente,orpi,89.0,326000.0,4.0,1.0,3662.92,2992.78,22.39,Sur-evalue
+Saint,13310,13,Maison,vente,orpi,80.0,324000.0,4.0,1.0,4050.0,2992.78,35.33,Sur-evalue
+Argenteuil,95100,95,Maison,vente,pap,93.0,318900.0,3.0,3.0,3429.03,4011.5,-14.52,Prix marche
+Saint-brevin-les-pins,44250,44,Maison,vente,entreparticuliers,77.0,310000.0,4.0,1.0,4025.97,4011.5,0.36,Prix marche
+Rosny-sous-bois,93110,93,Maison,vente,pap,93.0,308900.0,3.0,3.0,3321.51,3968.75,-16.31,Sous-evalue
+Le Mée,77350,77,Maison,vente,orpi,99.0,304000.0,6.0,1.0,3070.71,2696.65,13.87,Prix marche
+Lapalud,84840,84,Maison,vente,orpi,91.0,289000.0,4.0,1.0,3175.82,2992.78,6.12,Prix marche
+Bezons,95870,95,Maison,vente,pap,90.0,288900.0,3.0,4.0,3210.0,4011.5,-19.98,Sous-evalue
+Forcalquier,04300,04,Maison,vente,orpi,140.0,280000.0,5.0,1.0,2000.0,2947.91,-32.16,Sous-evalue
+Vieux,97119,97,Maison,vente,orpi,108.0,280000.0,4.0,1.0,2592.59,2947.91,-12.05,Prix marche
+Libercourt,62820,62,Maison,vente,pap,116.0,265000.0,5.0,5.0,2284.48,3517.05,-35.05,Sous-evalue
+Molay-littry,14330,14,Maison,vente,pap,193.0,260000.0,6.0,5.0,1347.15,3394.41,-60.31,Sous-evalue
+Saulx,91160,91,Maison,vente,orpi,55.0,250000.0,2.0,1.0,4545.45,3304.7,37.55,Sur-evalue
+Tourcoing,59200,59,Maison,vente,orpi,110.0,245000.0,4.0,1.0,2227.27,2947.91,-24.45,Sous-evalue
+Mulhouse,68200,68,Maison,vente,orpi,90.0,226900.0,5.0,1.0,2521.11,2992.78,-15.76,Sous-evalue
+Valensole,04210,04,Maison,vente,orpi,112.0,220000.0,4.0,1.0,1964.29,2947.91,-33.37,Sous-evalue
+Forcalquier,04300,04,Maison,vente,orpi,109.0,220000.0,5.0,1.0,2018.35,2947.91,-31.53,Sous-evalue
+Breuil-magné,17870,17,Maison,vente,entreparticuliers,80.0,219000.0,5.0,1.0,2737.5,4767.65,-42.58,Sous-evalue
+Redessan,30129,30,Maison,vente,orpi,105.0,210500.0,5.0,1.0,2004.76,2947.91,-31.99,Sous-evalue
+Ay,51160,51,Maison,vente,orpi,127.0,171900.0,5.0,1.0,1353.54,2721.89,-50.27,Sous-evalue
+Port,17730,17,Maison,vente,orpi,49.0,143500.0,3.0,1.0,2928.57,3486.47,-16.0,Sous-evalue
+Boulogne,62200,62,Maison,vente,orpi,75.0,140000.0,3.0,1.0,1866.67,2756.07,-32.27,Sous-evalue
+Rivesaltes,66600,66,Maison,vente,orpi,55.0,130000.0,3.0,1.0,2363.64,3304.7,-28.48,Sous-evalue
+Èze,06360,06,Appartement,vente,entreparticuliers,135.0,1250000.0,5.0,1.0,9259.26,7701.05,20.23,Sur-evalue
+Paris,75005,75,Appartement,vente,pap,107.4,1090000.0,4.0,3.0,10148.98,10677.98,-4.95,Prix marche
+Levallois-perret,92300,92,Appartement,vente,entreparticuliers,104.0,1070000.0,5.0,1.0,10288.46,6402.06,60.71,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,106.0,1050000.0,5.0,3.0,9905.66,10677.98,-7.23,Prix marche
+Paris,75015,75,Appartement,vente,pap,100.0,1050000.0,4.0,2.0,10500.0,10722.85,-2.08,Prix marche
+Paris,75018,75,Appartement,vente,pap,80.8,1050000.0,4.0,3.0,12995.05,10722.85,21.19,Sur-evalue
+Paris,75016,75,Appartement,vente,pap,101.0,870000.0,4.0,3.0,8613.86,10722.85,-19.67,Sous-evalue
+Paris,75012,75,Appartement,vente,pap,58.0,849000.0,2.0,1.0,14637.93,11034.78,32.65,Sur-evalue
+Paris,75011,75,Appartement,vente,pap,83.0,825000.0,4.0,2.0,9939.76,10722.85,-7.3,Prix marche
+Paris,75009,75,Appartement,vente,pap,55.0,820000.0,3.0,2.0,14909.09,11034.78,35.11,Sur-evalue
+Neuilly-sur-seine,92200,92,Appartement,vente,pap,80.7,790000.0,3.0,2.0,9789.34,6446.93,51.84,Sur-evalue
+Paris,75016,75,Appartement,vente,pap,69.1,760000.0,4.0,2.0,10998.55,10722.85,2.57,Prix marche
+Paris,75014,75,Appartement,vente,pap,75.5,748000.0,3.0,2.0,9907.28,10722.85,-7.61,Prix marche
+Garches,92380,92,Appartement,vente,pap,115.0,735000.0,4.0,3.0,6391.3,6402.06,-0.17,Prix marche
+Paris,75020,75,Appartement,vente,pap,74.0,655000.0,3.0,2.0,8851.35,10722.85,-17.45,Sous-evalue
+Paris,75010,75,Appartement,vente,pap,60.0,630000.0,3.0,1.0,10500.0,11034.78,-4.85,Prix marche
+Paris,75010,75,Appartement,vente,pap,65.0,610000.0,3.0,2.0,9384.62,10722.85,-12.48,Prix marche
+Paris,75017,75,Appartement,vente,pap,45.0,600000.0,3.0,1.0,13333.33,11184.85,19.21,Sur-evalue
+Suresnes,92150,92,Appartement,vente,pap,85.0,599000.0,4.0,3.0,7047.06,6446.93,9.31,Prix marche
+Paris,75020,75,Appartement,vente,pap,70.0,580000.0,3.0,2.0,8285.71,10722.85,-22.73,Sous-evalue
+Paris,75012,75,Appartement,vente,pap,53.0,570000.0,2.0,1.0,10754.72,11034.78,-2.54,Prix marche
+Paris,75005,75,Appartement,vente,pap,50.0,565000.0,3.0,2.0,11300.0,11034.78,2.4,Prix marche
+Antibes,06160,06,Appartement,vente,entreparticuliers,92.0,499000.0,4.0,1.0,5423.91,5217.71,3.95,Prix marche
+Saint-cloud,92210,92,Appartement,vente,pap,72.0,489000.0,3.0,2.0,6791.67,6446.93,5.35,Prix marche
+Nogent-sur-marne,94130,94,Appartement,vente,pap,86.0,485000.0,4.0,3.0,5639.53,4720.32,19.47,Sur-evalue
+Paris,75020,75,Appartement,vente,pap,47.0,479000.0,3.0,2.0,10191.49,11184.85,-8.88,Prix marche
+Montrouge,92120,92,Appartement,vente,pap,61.0,475000.0,3.0,1.0,7786.89,6758.86,15.21,Sur-evalue
+Paris,75018,75,Appartement,vente,pap,60.0,475000.0,3.0,2.0,7916.67,11034.78,-28.26,Sous-evalue
+Paris,75001,75,Appartement,vente,entreparticuliers,49.0,473000.0,2.0,1.0,9653.06,11034.78,-12.52,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,60.2,460000.0,3.0,2.0,7638.66,6758.86,13.02,Prix marche
+Marseille,13001,13,Appartement,vente,entreparticuliers,81.0,459000.0,4.0,1.0,5666.67,4011.5,41.26,Sur-evalue
+Paris,75018,75,Appartement,vente,pap,45.3,449000.0,2.0,1.0,9922.65,11184.85,-11.28,Prix marche
+Puteaux,92800,92,Appartement,vente,pap,37.9,428000.0,2.0,1.0,11292.88,8415.28,34.19,Sur-evalue
+Les Sables-d'olonne,85100,85,Appartement,vente,entreparticuliers,91.0,419000.0,4.0,1.0,4604.4,4011.5,14.78,Prix marche
+Paris,75018,75,Appartement,vente,pap,43.0,415000.0,2.0,1.0,9651.16,11184.85,-13.71,Prix marche
+Issy-les-moulineaux,92130,92,Appartement,vente,pap,42.8,395000.0,2.0,1.0,9233.29,6908.93,33.64,Sur-evalue
+Paris,75003,75,Appartement,vente,pap,32.7,390000.0,2.0,1.0,11944.87,11184.85,6.8,Prix marche
+Paris,75005,75,Appartement,vente,pap,31.0,390000.0,2.0,1.0,12580.65,11270.7,11.62,Prix marche
+Paris,75014,75,Appartement,vente,pap,47.3,387000.0,2.0,1.0,8181.82,11184.85,-26.85,Sous-evalue
+Viroflay,78220,78,Appartement,vente,orpi,72.0,383250.0,4.0,1.0,5322.92,3351.64,58.82,Sur-evalue
+Strasbourg,67000,67,Appartement,vente,pap,94.0,375000.0,5.0,4.0,3989.36,4011.5,-0.55,Prix marche
+Villeneuve-le-roi,94290,94,Appartement,vente,pap,98.0,369000.0,5.0,4.0,3765.31,4720.32,-20.23,Sous-evalue
+Nice,06300,06,Appartement,vente,pap,80.2,369000.0,4.0,3.0,4603.87,5217.71,-11.76,Prix marche
+Paris,75018,75,Appartement,vente,pap,52.0,369000.0,3.0,2.0,7096.15,11034.78,-35.69,Sous-evalue
+Paris,75012,75,Appartement,vente,pap,34.6,369000.0,2.0,1.0,10664.74,11184.85,-4.65,Prix marche
+Paris,75019,75,Appartement,vente,pap,36.4,368000.0,2.0,1.0,10121.01,11184.85,-9.51,Prix marche
+Sèvres,92310,92,Appartement,vente,pap,65.0,355000.0,3.0,2.0,5461.54,6446.93,-15.28,Sous-evalue
+Paris,75019,75,Appartement,vente,pap,32.0,350000.0,2.0,1.0,10937.5,11270.7,-2.96,Prix marche
+Fontenay-sous-bois,94120,94,Appartement,vente,pap,45.3,349000.0,3.0,2.0,7702.49,5164.77,49.14,Sur-evalue
+Champigny,94500,94,Appartement,vente,orpi,66.0,333000.0,3.0,1.0,5045.45,4171.49,20.95,Sur-evalue
+Celle-saint-cloud,78170,78,Appartement,vente,pap,89.0,330000.0,4.0,3.0,3707.87,3957.91,-6.32,Prix marche
+Paris,75020,75,Appartement,vente,pap,27.0,330000.0,2.0,1.0,12222.22,11270.7,8.44,Prix marche
+Savigny,91600,91,Appartement,vente,orpi,90.0,328000.0,3.0,1.0,3644.44,2992.78,21.77,Sur-evalue
+Compiègne,60200,60,Appartement,vente,orpi,117.0,325000.0,5.0,1.0,2777.78,2947.91,-5.77,Prix marche
+Fort,80120,80,Appartement,vente,orpi,65.0,325000.0,3.0,1.0,5000.0,2992.78,67.07,Sur-evalue
+Schiltigheim,67300,67,Appartement,vente,orpi,83.0,321700.0,4.0,1.0,3875.9,2992.78,29.51,Sur-evalue
+Saint-pierre,97400,97,Appartement,vente,pap,80.0,319000.0,3.0,2.0,3987.5,4011.5,-0.6,Prix marche
+La Turbie,06320,06,Appartement,vente,entreparticuliers,32.0,309000.0,1.0,1.0,9656.25,7086.89,36.26,Sur-evalue
+Lyon,69008,69,Appartement,vente,pap,74.0,308000.0,3.0,2.0,4162.16,4011.5,3.76,Prix marche
+Paris,75020,75,Appartement,vente,pap,27.0,307000.0,2.0,1.0,11370.37,11270.7,0.88,Prix marche
+Choisy-le-roi,94600,94,Appartement,vente,pap,93.0,305000.0,4.0,3.0,3279.57,4720.32,-30.52,Sous-evalue
+Vanves,92170,92,Appartement,vente,orpi,48.0,305000.0,2.0,1.0,6354.17,6908.93,-8.03,Prix marche
+Villiers,94350,94,Appartement,vente,orpi,66.0,299000.0,3.0,1.0,4530.3,4171.49,8.6,Prix marche
+Lyon,69001,69,Appartement,vente,entreparticuliers,58.0,299000.0,3.0,1.0,5155.17,4323.42,19.24,Sur-evalue
+Saint-jean-de-védas,34430,34,Appartement,vente,pap,65.0,272000.0,3.0,2.0,4184.62,4011.5,4.32,Prix marche
+Paris,75019,75,Appartement,vente,pap,30.0,269000.0,2.0,1.0,8966.67,11270.7,-20.44,Sous-evalue
+Guérande,44350,44,Appartement,vente,entreparticuliers,69.0,267750.0,3.0,1.0,3880.43,4011.5,-3.27,Prix marche
+Paris,75014,75,Appartement,vente,pap,25.5,265500.0,1.0,1.0,10395.46,11270.7,-7.77,Prix marche
+Marseille,13008,13,Appartement,vente,pap,64.0,259000.0,3.0,2.0,4046.88,4323.42,-6.4,Prix marche
+Paris,75018,75,Appartement,vente,pap,33.1,252000.0,2.0,1.0,7608.7,11184.85,-31.97,Sous-evalue
+Saint-nazaire,44600,44,Appartement,vente,pap,66.0,238500.0,3.0,2.0,3613.64,4011.5,-9.92,Prix marche
+La Mulatière,69350,69,Appartement,vente,orpi,64.0,235000.0,3.0,1.0,3671.88,3304.7,11.11,Prix marche
+Aubervilliers,93300,93,Appartement,vente,orpi,39.0,235000.0,2.0,1.0,6025.64,3649.08,65.13,Sur-evalue
+Talange,57525,57,Appartement,vente,orpi,68.0,229000.0,3.0,1.0,3367.65,2992.78,12.53,Prix marche
+Le Pradet,83220,83,Appartement,vente,orpi,56.0,229000.0,3.0,1.0,4089.29,3304.7,23.74,Sur-evalue
+Cayenne,97300,97,Appartement,vente,orpi,85.0,224700.0,3.0,1.0,2643.53,2992.78,-11.67,Prix marche
+Reims,51100,51,Appartement,vente,orpi,125.0,223900.0,5.0,1.0,1791.2,2721.89,-34.19,Sous-evalue
+Auray,56400,56,Appartement,vente,entreparticuliers,62.0,222600.0,3.0,1.0,3590.32,4323.42,-16.96,Sous-evalue
+Villeurbanne,69100,69,Appartement,vente,pap,56.0,215000.0,4.0,2.0,3839.29,4323.42,-11.2,Prix marche
+Bobigny,93000,93,Appartement,vente,pap,45.0,212000.0,2.0,1.0,4711.11,4667.8,0.93,Prix marche
+Paris,75009,75,Appartement,vente,pap,14.0,210000.0,2.0,1.0,15000.0,11270.7,33.09,Sur-evalue
+Sainte-maxime,83120,83,Appartement,vente,entreparticuliers,45.0,208000.0,2.0,1.0,4622.22,4473.49,3.32,Prix marche
+Lille,59000,59,Appartement,vente,orpi,47.0,199900.0,2.0,1.0,4253.19,3454.77,23.11,Sur-evalue
+Brou-sur-chantereine,77177,77,Appartement,vente,entreparticuliers,73.0,199000.0,4.0,1.0,2726.03,4011.5,-32.04,Sous-evalue
+Nozay,91620,91,Appartement,vente,pap,60.0,199000.0,3.0,2.0,3316.67,4323.42,-23.29,Sous-evalue
+Aubervilliers,93300,93,Appartement,vente,pap,52.0,199000.0,3.0,2.0,3826.92,4517.73,-15.29,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,23.5,198000.0,1.0,1.0,8421.95,11270.7,-25.28,Sous-evalue
+Beauchamp,95250,95,Appartement,vente,entreparticuliers,73.0,197000.0,3.0,1.0,2698.63,4011.5,-32.73,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,21.2,191500.0,1.0,1.0,9037.28,11270.7,-19.82,Sous-evalue
+Strasbourg,67000,67,Appartement,vente,orpi,54.0,189900.0,3.0,1.0,3516.67,3304.7,6.41,Prix marche
+Les Sables,85100,85,Appartement,vente,orpi,42.0,189000.0,2.0,1.0,4500.0,3454.77,30.25,Sur-evalue
+Tours,37000,37,Appartement,vente,pap,95.0,188000.0,4.0,3.0,1978.95,4011.5,-50.67,Sous-evalue
+Fontenay-aux-roses,92260,92,Appartement,vente,pap,35.0,188000.0,1.0,1.0,5371.43,8415.28,-36.17,Sous-evalue
+Salon,13300,13,Appartement,vente,orpi,68.0,182000.0,3.0,1.0,2676.47,2992.78,-10.57,Prix marche
+Vitrolles,13127,13,Appartement,vente,entreparticuliers,90.0,181000.0,5.0,1.0,2011.11,4011.5,-49.87,Sous-evalue
+Larmor,56260,56,Appartement,vente,orpi,41.0,180500.0,2.0,1.0,4402.44,3454.77,27.43,Sur-evalue
+Rodez,12000,12,Appartement,vente,orpi,64.0,179000.0,3.0,1.0,2796.88,3304.7,-15.37,Sous-evalue
+Rennes,35000,35,Appartement,vente,entreparticuliers,72.0,177320.0,3.0,1.0,2462.78,4011.5,-38.61,Sous-evalue
+Argelès-sur-mer,66700,66,Appartement,vente,entreparticuliers,99.0,175000.0,5.0,1.0,1767.68,4011.5,-55.93,Sous-evalue
+Lille,59800,59,Appartement,vente,orpi,30.0,171000.0,1.0,1.0,5700.0,3540.62,60.99,Sur-evalue
+Bron,69500,69,Appartement,vente,orpi,56.0,169000.0,3.0,1.0,3017.86,3304.7,-8.68,Prix marche
+Cergy,95800,95,Appartement,vente,orpi,42.0,169000.0,2.0,1.0,4023.81,3454.77,16.47,Sur-evalue
+Paris,75019,75,Appartement,vente,pap,19.1,165000.0,1.0,1.0,8643.27,11270.7,-23.31,Sous-evalue
+Marseille,13002,13,Appartement,vente,pap,37.0,163000.0,2.0,1.0,4405.41,4473.49,-1.52,Prix marche
+Aubervilliers,93300,93,Appartement,vente,pap,32.0,160000.0,1.0,1.0,5000.0,4753.65,5.18,Prix marche
+Vaujours,93410,93,Appartement,vente,orpi,38.0,159000.0,2.0,1.0,4184.21,3649.08,14.66,Prix marche
+Maurepas,78310,78,Appartement,vente,pap,46.0,155000.0,2.0,1.0,3369.57,4760.3,-29.22,Sous-evalue
+Romainville,93230,93,Appartement,vente,pap,28.0,155000.0,1.0,1.0,5535.71,4753.65,16.45,Sur-evalue
+Deuil-la-barre,95170,95,Appartement,vente,pap,38.0,150000.0,2.0,1.0,3947.37,4473.49,-11.76,Prix marche
+Marseille,13012,13,Appartement,vente,pap,82.0,148000.0,3.0,2.0,1804.88,4011.5,-55.01,Sous-evalue
+Paris,75019,75,Appartement,vente,pap,18.0,148000.0,1.0,1.0,8222.22,11270.7,-27.05,Sous-evalue
+Nantes,44000,44,Appartement,vente,pap,41.7,145000.0,2.0,1.0,3479.72,4473.49,-22.21,Sous-evalue
+Villeneuve-le-roi,94290,94,Appartement,vente,entreparticuliers,28.0,144500.0,1.0,1.0,5160.71,6711.96,-23.11,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,11.0,140000.0,1.0,1.0,12727.27,11270.7,12.92,Prix marche
+Toulouse,31400,31,Appartement,vente,orpi,50.0,138450.0,2.0,1.0,2769.0,3304.7,-16.21,Sous-evalue
+Saint,31650,31,Appartement,vente,orpi,43.0,129900.0,2.0,1.0,3020.93,3454.77,-12.56,Prix marche
+Saint,66750,66,Appartement,vente,orpi,35.0,125000.0,2.0,1.0,3571.43,3454.77,3.38,Prix marche
+Paris,75017,75,Appartement,vente,pap,10.0,120000.0,1.0,1.0,12000.0,11270.7,6.47,Prix marche
+Metz,57050,57,Appartement,vente,orpi,53.0,119000.0,3.0,1.0,2245.28,3304.7,-32.06,Sous-evalue
+Neuilly-sur-marne,93330,93,Appartement,vente,pap,37.3,119000.0,1.0,1.0,3192.92,4667.8,-31.6,Sous-evalue
+Saint,38400,38,Appartement,vente,orpi,67.0,115000.0,3.0,1.0,1716.42,2637.96,-34.93,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,10.0,100000.0,1.0,1.0,10000.0,11270.7,-11.27,Prix marche
+Nouméa,98800,98,Appartement,vente,pap,21.0,95000.0,1.0,1.0,4523.81,4559.34,-0.78,Prix marche
+Saint,66750,66,Appartement,vente,orpi,26.0,94000.0,2.0,1.0,3615.38,3540.62,2.11,Prix marche
+Les Abymes,97139,97,Appartement,vente,orpi,49.0,90000.0,2.0,1.0,1836.73,3304.7,-44.42,Sous-evalue
+Boulogne,62200,62,Appartement,vente,orpi,20.0,87900.0,2.0,1.0,4395.0,3218.07,36.57,Sur-evalue
+Pontivy,56300,56,Appartement,vente,entreparticuliers,31.0,87500.0,2.0,1.0,2822.58,4559.34,-38.09,Sous-evalue
+Saint-étienne,42000,42,Appartement,vente,pap,71.0,69000.0,4.0,2.0,971.83,2918.05,-66.7,Sous-evalue
+Paris 19,75019,75,inconnu,vente,orpi,20.0,15000.0,3.0,1.0,750.0,1079.97,-30.55,Sous-evalue
+Boulogne,62200,62,inconnu,vente,orpi,14.0,10900.0,3.0,1.0,778.57,2803.84,-72.23,Sous-evalue
+Garches,92380,92,Maison,vente,pap,262.0,1376000.0,3.0,3.0,5251.91,6314.31,-16.83,Sous-evalue
+Paris,75018,75,Maison,vente,pap,110.0,1290000.0,5.0,3.0,11727.27,10677.98,9.83,Prix marche
+Saint-cloud,92210,92,Maison,vente,pap,150.0,1246000.0,3.0,3.0,8306.67,6402.06,29.75,Sur-evalue
+Trets,13530,13,Maison,vente,pap,250.0,1178000.0,8.0,4.0,4712.0,3394.41,38.82,Sur-evalue
+Paris,75018,75,Maison,vente,pap,170.0,1099000.0,6.0,5.0,6464.71,6115.34,5.71,Prix marche
+Saint-cloud,92210,92,Maison,vente,pap,120.0,1092000.0,3.0,3.0,9100.0,6402.06,42.14,Sur-evalue
+Lille,59800,59,Maison,vente,orpi,265.0,990000.0,7.0,1.0,3735.85,2564.03,45.7,Sur-evalue
+Saint-leu,97436,97,Maison,vente,pap,130.0,920000.0,5.0,3.0,7076.92,3966.63,78.41,Sur-evalue
+Garches,92380,92,Maison,vente,pap,140.0,850000.0,3.0,4.0,6071.43,6402.06,-5.16,Prix marche
+Ciotat,13600,13,Maison,vente,pap,110.0,775000.0,4.0,3.0,7045.45,3966.63,77.62,Sur-evalue
+Cachan,94230,94,Maison,vente,pap,131.0,740000.0,3.0,3.0,5648.85,4550.6,24.13,Sur-evalue
+Osny,95520,95,Maison,vente,pap,211.0,730000.0,6.0,5.0,3459.72,3394.41,1.92,Prix marche
+Saint-pierre,97400,97,Maison,vente,pap,204.0,730000.0,6.0,4.0,3578.43,3394.41,5.42,Prix marche
+Saint-denis,97400,97,Maison,vente,pap,155.0,715000.0,5.0,3.0,4612.9,3878.88,18.92,Sur-evalue
+Voisins,78960,78,Maison,vente,orpi,188.0,699000.0,7.0,1.0,3718.09,2922.9,27.21,Sur-evalue
+Saint-leu,97436,97,Maison,vente,pap,100.0,699000.0,4.0,3.0,6990.0,4011.5,74.25,Sur-evalue
+Fontenay-sous-bois,94120,94,Maison,vente,pap,130.0,690000.0,3.0,3.0,5307.69,4550.6,16.64,Sur-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,90.0,652900.0,3.0,4.0,7254.44,4205.8,72.49,Sur-evalue
+La Couarde,17670,17,Maison,vente,orpi,109.0,647850.0,4.0,1.0,5943.58,3704.06,60.46,Sur-evalue
+Paris,75018,75,Maison,vente,pap,65.0,637000.0,3.0,2.0,9800.0,10722.85,-8.61,Prix marche
+Haÿ-les-roses,94240,94,Maison,vente,pap,132.0,587999.0,3.0,5.0,4454.54,4550.6,-2.11,Prix marche
+Haÿ-les-roses,94240,94,Maison,vente,pap,110.0,579999.0,3.0,4.0,5272.72,4550.6,15.87,Sur-evalue
+Thurins,69510,69,Maison,vente,orpi,151.0,560000.0,5.0,1.0,3708.61,2947.91,25.8,Sur-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,102.0,556999.0,3.0,4.0,5460.77,4550.6,20.0,Sur-evalue
+Champigny-sur-marne,94500,94,Maison,vente,pap,127.0,550000.0,3.0,3.0,4330.71,4550.6,-4.83,Prix marche
+Bron,69500,69,Maison,vente,orpi,120.0,540000.0,4.0,1.0,4500.0,2947.91,52.65,Sur-evalue
+Audinghen,62179,62,Maison,vente,entreparticuliers,186.0,535000.0,8.0,1.0,2876.34,2688.84,6.97,Prix marche
+Saint-jean-de-monts,85160,85,Maison,vente,pap,182.0,535000.0,5.0,4.0,2939.56,3878.88,-24.22,Sous-evalue
+Saint,31790,31,Maison,vente,orpi,161.0,510000.0,5.0,1.0,3167.7,2860.15,10.75,Prix marche
+Saint,04300,04,Maison,vente,orpi,256.0,495000.0,8.0,1.0,1933.59,2564.03,-24.59,Sous-evalue
+Ozoir,77330,77,Maison,vente,orpi,160.0,490000.0,5.0,1.0,3062.5,3311.5,-7.52,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,94.0,469900.0,3.0,3.0,4998.94,4720.32,5.9,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,81.0,461900.0,3.0,3.0,5702.47,4720.32,20.81,Sur-evalue
+Wissant,62179,62,Maison,vente,orpi,98.0,451500.0,4.0,1.0,4607.14,2756.07,67.16,Sur-evalue
+Valence,26000,26,Maison,vente,pap,170.0,450000.0,5.0,3.0,2647.06,3878.88,-31.76,Sous-evalue
+Frelinghien,59236,59,Maison,vente,pap,160.0,449900.0,6.0,5.0,2811.88,3394.41,-17.16,Sous-evalue
+Balgau,68740,68,Maison,vente,orpi,114.0,449000.0,5.0,1.0,3938.6,2947.91,33.61,Sur-evalue
+Voisins,78960,78,Maison,vente,orpi,90.0,449000.0,5.0,1.0,4988.89,3351.64,48.85,Sur-evalue
+Saint,40390,40,Maison,vente,orpi,230.0,440000.0,5.0,1.0,1913.04,2860.15,-33.11,Sous-evalue
+Tampon,97430,97,Maison,vente,pap,167.0,440000.0,6.0,5.0,2634.73,3394.41,-22.38,Sous-evalue
+Montluel,01120,01,Maison,vente,orpi,111.0,439000.0,4.0,1.0,3954.95,2947.91,34.16,Sur-evalue
+Aureilhan,40200,40,Maison,vente,orpi,134.0,420000.0,5.0,1.0,3134.33,2947.91,6.32,Prix marche
+Argenteuil,95100,95,Maison,vente,pap,90.0,417900.0,3.0,4.0,4643.33,4011.5,15.75,Sur-evalue
+Villeneuve-le-roi,94290,94,Maison,vente,pap,170.0,410000.0,8.0,5.0,2411.76,3850.01,-37.36,Sous-evalue
+Créteil,94000,94,Maison,vente,pap,90.0,403900.0,3.0,4.0,4487.78,4720.32,-4.93,Prix marche
+Créteil,94000,94,Maison,vente,pap,132.0,401900.0,3.0,5.0,3044.7,4550.6,-33.09,Sous-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,87.0,401816.0,3.0,4.0,4618.57,4720.32,-2.16,Prix marche
+Orsay,91400,91,Maison,vente,orpi,104.0,399000.0,5.0,1.0,3836.54,2947.91,30.14,Sur-evalue
+Villejuif,94800,94,Maison,vente,pap,88.0,386175.0,3.0,4.0,4388.35,4720.32,-7.03,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,120.0,385900.0,3.0,3.0,3215.83,4550.6,-29.33,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,126.0,385000.0,3.0,4.0,3055.56,3966.63,-22.97,Sous-evalue
+Antony,92160,92,Maison,vente,orpi,84.0,381200.0,4.0,1.0,4538.1,6446.93,-29.61,Sous-evalue
+Rosny-sous-bois,93110,93,Maison,vente,pap,113.0,380000.0,3.0,4.0,3362.83,3923.88,-14.3,Prix marche
+Biaudos,40390,40,Maison,vente,orpi,120.0,379000.0,4.0,1.0,3158.33,2947.91,7.14,Prix marche
+Coëtmieux,22400,22,Maison,vente,orpi,141.0,378000.0,5.0,1.0,2680.85,2947.91,-9.06,Prix marche
+Créteil,94000,94,Maison,vente,pap,104.0,374900.0,3.0,4.0,3604.81,4550.6,-20.78,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,108.0,374000.0,3.0,4.0,3462.96,3966.63,-12.7,Prix marche
+Bondy,93140,93,Maison,vente,pap,93.0,368900.0,3.0,3.0,3966.67,3968.75,-0.05,Prix marche
+Bezons,95870,95,Maison,vente,pap,132.0,368000.0,3.0,5.0,2787.88,3966.63,-29.72,Sous-evalue
+Fouju,77390,77,Maison,vente,pap,132.0,365000.0,7.0,5.0,2765.15,3482.16,-20.59,Sous-evalue
+Cabourg,14390,14,Maison,vente,entreparticuliers,90.0,360000.0,4.0,1.0,4000.0,4011.5,-0.29,Prix marche
+Bondy,93140,93,Maison,vente,pap,111.0,356200.0,3.0,4.0,3209.01,3923.88,-18.22,Sous-evalue
+Thiais,94320,94,Maison,vente,pap,90.0,353900.0,3.0,4.0,3932.22,4720.32,-16.7,Sous-evalue
+Drancy,93700,93,Maison,vente,pap,87.0,353900.0,3.0,3.0,4067.82,4205.8,-3.28,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,69.0,348900.0,3.0,3.0,5056.52,4720.32,7.12,Prix marche
+Drancy,93700,93,Maison,vente,pap,110.0,346900.0,3.0,3.0,3153.64,3923.88,-19.63,Sous-evalue
+Drancy,93700,93,Maison,vente,pap,106.0,341900.0,3.0,4.0,3225.47,3923.88,-17.8,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,104.0,341000.0,3.0,4.0,3278.85,3966.63,-17.34,Sous-evalue
+Villejuif,94800,94,Maison,vente,pap,76.0,334900.0,3.0,3.0,4406.58,4720.32,-6.65,Prix marche
+Bondy,93140,93,Maison,vente,pap,87.0,332089.0,3.0,3.0,3817.11,4205.8,-9.24,Prix marche
+Neuilly-plaisance,93360,93,Maison,vente,pap,103.0,330000.0,3.0,5.0,3203.88,3923.88,-18.35,Sous-evalue
+Bondy,93140,93,Maison,vente,pap,87.0,321900.0,3.0,3.0,3700.0,4205.8,-12.03,Prix marche
+Drancy,93700,93,Maison,vente,pap,91.0,317900.0,3.0,4.0,3493.41,3968.75,-11.98,Prix marche
+Amnéville,57360,57,Maison,vente,orpi,96.0,314000.0,5.0,1.0,3270.83,2992.78,9.29,Prix marche
+Drancy,93700,93,Maison,vente,pap,78.0,307900.0,3.0,3.0,3947.44,4205.8,-6.14,Prix marche
+Savigneux,42600,42,Maison,vente,orpi,130.0,289000.0,7.0,1.0,2223.08,1558.34,42.66,Sur-evalue
+Hesdin,62360,62,Maison,vente,orpi,171.0,274500.0,5.0,1.0,1605.26,2410.58,-33.41,Sous-evalue
+Hindisheim,67150,67,Maison,vente,orpi,135.0,265000.0,5.0,1.0,1962.96,2947.91,-33.41,Sous-evalue
+Mernel,35330,35,Maison,vente,pap,160.0,260000.0,7.0,4.0,1625.0,3394.41,-52.13,Sous-evalue
+Tracy,60170,60,Maison,vente,orpi,107.0,242000.0,3.0,1.0,2261.68,2947.91,-23.28,Sous-evalue
+Fonbeauzard,31140,31,Maison,vente,orpi,83.0,234200.0,4.0,1.0,2821.69,2992.78,-5.72,Prix marche
+Romorantin,41200,41,Maison,vente,orpi,101.0,226000.0,3.0,1.0,2237.62,2992.78,-25.23,Sous-evalue
+Saint,62280,62,Maison,vente,orpi,103.0,198000.0,4.0,1.0,1922.33,2498.33,-23.06,Sous-evalue
+Reims,51100,51,Maison,vente,orpi,83.0,198000.0,4.0,1.0,2385.54,2766.76,-13.78,Prix marche
+Annay,62880,62,Maison,vente,orpi,150.0,189490.0,7.0,1.0,1263.27,2202.21,-42.64,Sous-evalue
+La Verpillière,38290,38,Maison,vente,orpi,95.0,189000.0,4.0,1.0,1989.47,2637.96,-24.58,Sous-evalue
+Boulogne,62200,62,Maison,vente,orpi,177.0,188000.0,5.0,1.0,1062.15,2410.58,-55.94,Sous-evalue
+Basse,97100,97,Maison,vente,orpi,73.0,180000.0,3.0,1.0,2465.75,2992.78,-17.61,Sous-evalue
+Saint,38620,38,Maison,vente,orpi,61.0,145000.0,3.0,1.0,2377.05,2949.88,-19.42,Sous-evalue
+Marquise,62250,62,Maison,vente,orpi,90.0,140900.0,4.0,1.0,1565.56,2756.07,-43.2,Sous-evalue
+Semallé,61250,61,Maison,vente,orpi,60.0,128000.0,2.0,1.0,2133.33,2801.81,-23.86,Sous-evalue
+Mennetou,41320,41,Maison,vente,orpi,79.0,109000.0,4.0,1.0,1379.75,2992.78,-53.9,Sous-evalue
+Carmaux,81400,81,Maison,vente,pap,110.0,100000.0,6.0,3.0,909.09,2961.69,-69.31,Sous-evalue
+Toulouse,31000,31,Appartement,vente,pap,180.0,1149000.0,5.0,3.0,6383.33,3878.88,64.57,Sur-evalue
+Paris,75006,75,Appartement,vente,pap,62.0,1100000.0,3.0,2.0,17741.94,11034.78,60.78,Sur-evalue
+Paris,75004,75,Appartement,vente,pap,66.0,998000.0,3.0,2.0,15121.21,10722.85,41.02,Sur-evalue
+Paris,75017,75,Appartement,vente,pap,74.0,960000.0,3.0,2.0,12972.97,10722.85,20.98,Sur-evalue
+Nice,06000,06,Appartement,vente,pap,133.0,950000.0,5.0,4.0,7142.86,7701.05,-7.25,Prix marche
+Paris,75010,75,Appartement,vente,pap,85.1,926000.0,5.0,3.0,10882.59,10722.85,1.49,Prix marche
+Paris,75003,75,Appartement,vente,pap,70.0,845000.0,4.0,2.0,12071.43,10722.85,12.58,Prix marche
+Nogent-sur-marne,94130,94,Appartement,vente,entreparticuliers,100.0,820000.0,5.0,1.0,8200.0,4720.32,73.72,Sur-evalue
+Paris,75006,75,Appartement,vente,pap,60.0,790000.0,2.0,1.0,13166.67,11034.78,19.32,Sur-evalue
+Paris,75002,75,Appartement,vente,pap,64.0,770000.0,2.0,1.0,12031.25,11034.78,9.03,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,80.0,740000.0,3.0,2.0,9250.0,6446.93,43.48,Sur-evalue
+Paris,75012,75,Appartement,vente,pap,79.0,735000.0,4.0,3.0,9303.8,10722.85,-13.23,Prix marche
+Paris,75010,75,Appartement,vente,pap,52.0,675000.0,2.0,1.0,12980.77,11034.78,17.64,Sur-evalue
+Paris,75004,75,Appartement,vente,pap,45.0,665000.0,3.0,2.0,14777.78,11184.85,32.12,Sur-evalue
+Boulogne-billancourt,92100,92,Appartement,vente,pap,65.0,640000.0,3.0,2.0,9846.15,6446.93,52.73,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,68.0,635000.0,3.0,2.0,9338.24,10722.85,-12.91,Prix marche
+Montreuil,93100,93,Appartement,vente,pap,113.0,620000.0,5.0,3.0,5486.73,3923.88,39.83,Sur-evalue
+Marseille,13001,13,Appartement,vente,entreparticuliers,113.0,595000.0,4.0,1.0,5265.49,3966.63,32.74,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,78.0,580000.0,5.0,4.0,7435.9,6732.43,10.45,Prix marche
+Bandol,83150,83,Appartement,vente,orpi,77.0,575000.0,3.0,1.0,7467.53,2992.78,149.52,Sur-evalue
+Nogent-sur-marne,94130,94,Appartement,vente,pap,77.0,570000.0,3.0,2.0,7402.6,4720.32,56.82,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,65.0,532000.0,3.0,2.0,8184.62,10722.85,-23.67,Sous-evalue
+Arcy,78390,78,Appartement,vente,pap,86.0,530000.0,4.0,3.0,6162.79,3957.91,55.71,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,72.4,530000.0,3.0,2.0,7320.44,10722.85,-31.73,Sous-evalue
+Paris,75016,75,Appartement,vente,pap,47.0,515000.0,3.0,2.0,10957.45,11184.85,-2.03,Prix marche
+Paris,75015,75,Appartement,vente,pap,48.2,497000.0,2.0,1.0,10311.2,11184.85,-7.81,Prix marche
+Paris,75016,75,Appartement,vente,pap,54.0,496000.0,2.0,1.0,9185.19,11034.78,-16.76,Sous-evalue
+Saint-denis,93200,93,Appartement,vente,pap,63.0,469000.0,3.0,2.0,7444.44,4517.73,64.78,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,52.8,463500.0,3.0,2.0,8776.75,11034.78,-20.46,Sous-evalue
+Paris,75015,75,Appartement,vente,pap,53.0,455000.0,3.0,2.0,8584.91,11034.78,-22.2,Sous-evalue
+Marseille,13001,13,Appartement,vente,entreparticuliers,80.0,450000.0,4.0,1.0,5625.0,4011.5,40.22,Sur-evalue
+Marseille,13001,13,Appartement,vente,entreparticuliers,55.0,450000.0,4.0,1.0,8181.82,4323.42,89.24,Sur-evalue
+Paris,75005,75,Appartement,vente,pap,43.0,440000.0,1.0,1.0,10232.56,11184.85,-8.51,Prix marche
+Grimaud,83310,83,Appartement,vente,entreparticuliers,80.0,424000.0,4.0,1.0,5300.0,4011.5,32.12,Sur-evalue
+Paris,75017,75,Appartement,vente,pap,34.0,420000.0,2.0,1.0,12352.94,11184.85,10.44,Prix marche
+Grasse,06130,06,Appartement,vente,pap,66.0,395000.0,3.0,2.0,5984.85,5217.71,14.7,Prix marche
+Paris,75011,75,Appartement,vente,pap,35.0,395000.0,2.0,1.0,11285.71,11184.85,0.9,Prix marche
+Paris,75012,75,Appartement,vente,pap,32.0,395000.0,2.0,2.0,12343.75,11270.7,9.52,Prix marche
+Vitry-sur-seine,94400,94,Appartement,vente,pap,74.0,392000.0,3.0,2.0,5297.3,4720.32,12.22,Prix marche
+Paris,75016,75,Appartement,vente,pap,32.0,390000.0,2.0,1.0,12187.5,11270.7,8.13,Prix marche
+Nogent,94130,94,Appartement,vente,orpi,58.0,385000.0,3.0,1.0,6637.93,3697.23,79.54,Sur-evalue
+Paris,75014,75,Appartement,vente,pap,52.0,385000.0,2.0,1.0,7403.85,11034.78,-32.9,Sous-evalue
+Paris,75001,75,Appartement,vente,entreparticuliers,64.0,379000.0,4.0,1.0,5921.88,11034.78,-46.33,Sous-evalue
+Paris,75016,75,Appartement,vente,pap,29.0,369000.0,2.0,1.0,12724.14,11270.7,12.9,Prix marche
+Royan,17200,17,Appartement,vente,orpi,64.0,353090.0,3.0,1.0,5517.03,4242.71,30.04,Sur-evalue
+Nice,06100,06,Appartement,vente,orpi,70.0,350000.0,3.0,1.0,5000.0,4198.99,19.08,Sur-evalue
+Paris,75010,75,Appartement,vente,pap,34.0,350000.0,1.0,1.0,10294.12,11184.85,-7.96,Prix marche
+Antibes,06600,06,Appartement,vente,pap,71.5,342000.0,3.0,2.0,4783.22,5217.71,-8.33,Prix marche
+Lille,59800,59,Appartement,vente,orpi,66.0,339200.0,3.0,1.0,5139.39,2992.78,71.73,Sur-evalue
+Paris,75018,75,Appartement,vente,pap,35.1,335000.0,2.0,1.0,9544.16,11184.85,-14.67,Prix marche
+Saint-denis,93200,93,Appartement,vente,pap,87.0,329000.0,4.0,3.0,3781.61,4205.8,-10.09,Prix marche
+Fontenay-le-fleury,78330,78,Appartement,vente,pap,112.0,320000.0,5.0,4.0,2857.14,3913.04,-26.98,Sous-evalue
+Versailles,78000,78,Appartement,vente,pap,40.1,319000.0,2.0,1.0,7961.07,5502.53,44.68,Sur-evalue
+Fontenay,92260,92,Appartement,vente,orpi,88.0,315000.0,4.0,1.0,3579.55,6446.93,-44.48,Sous-evalue
+Rochelle,17000,17,Appartement,vente,pap,71.0,310000.0,4.0,3.0,4366.2,4767.65,-8.42,Prix marche
+Anglet,64600,64,Appartement,vente,orpi,73.0,299900.0,3.0,1.0,4108.22,2992.78,37.27,Sur-evalue
+Eaubonne,95600,95,Appartement,vente,pap,95.0,299500.0,5.0,3.0,3152.63,4011.5,-21.41,Sous-evalue
+Vincennes,94300,94,Appartement,vente,orpi,34.0,299000.0,2.0,1.0,8794.12,5607.39,56.83,Sur-evalue
+Nancy,54000,54,Appartement,vente,orpi,96.0,279000.0,4.0,1.0,2906.25,2992.78,-2.89,Prix marche
+Lille,59000,59,Appartement,vente,orpi,85.0,279000.0,4.0,1.0,3282.35,2992.78,9.68,Prix marche
+Le Havre,76600,76,Appartement,vente,entreparticuliers,73.0,270000.0,3.0,1.0,3698.63,4011.5,-7.8,Prix marche
+Bischheim,67800,67,Appartement,vente,orpi,95.0,265000.0,4.0,1.0,2789.47,2992.78,-6.79,Prix marche
+Arcachon,33120,33,Appartement,vente,entreparticuliers,33.0,260000.0,2.0,1.0,7878.79,5686.64,38.55,Sur-evalue
+Boulogne,62200,62,Appartement,vente,orpi,96.0,259000.0,4.0,1.0,2697.92,2756.07,-2.11,Prix marche
+Illkirch,67400,67,Appartement,vente,orpi,75.0,256800.0,3.0,1.0,3424.0,2992.78,14.41,Prix marche
+Le Cannet,06110,06,Appartement,vente,orpi,46.0,255000.0,3.0,1.0,5543.48,4951.08,11.97,Prix marche
+Le Gosier,97190,97,Appartement,vente,orpi,95.0,254000.0,3.0,1.0,2673.68,2992.78,-10.66,Prix marche
+Fréjus,83600,83,Appartement,vente,pap,55.0,250000.0,3.0,2.0,4545.45,4323.42,5.14,Prix marche
+Villeron,95380,95,Appartement,vente,pap,67.0,249000.0,3.0,2.0,3716.42,4011.5,-7.36,Prix marche
+Bonneuil-sur-marne,94380,94,Appartement,vente,pap,61.0,249000.0,3.0,2.0,4079.29,4715.95,-13.5,Prix marche
+Noisy,93160,93,Appartement,vente,orpi,54.0,248000.0,3.0,1.0,4592.59,3499.01,31.25,Sur-evalue
+Touvet,38660,38,Appartement,vente,pap,83.0,244000.0,4.0,3.0,2939.76,3395.11,-13.41,Prix marche
+Pontenx-les-forges,40200,40,Appartement,vente,pap,103.0,240600.0,4.0,3.0,2335.92,3966.63,-41.11,Sous-evalue
+Paris,75014,75,Appartement,vente,pap,19.6,240000.0,1.0,1.0,12238.65,11270.7,8.59,Prix marche
+Havre,76600,76,Appartement,vente,pap,88.0,235000.0,4.0,3.0,2670.45,4011.5,-33.43,Sous-evalue
+Lille,59000,59,Appartement,vente,pap,47.0,235000.0,2.0,1.0,5000.0,4473.49,11.77,Prix marche
+Orchamps-vennes,25390,25,Appartement,vente,pap,68.0,233000.0,3.0,2.0,3426.47,4011.5,-14.58,Prix marche
+Divonne-les-bains,01220,01,Appartement,vente,entreparticuliers,40.0,225000.0,2.0,1.0,5625.0,4473.49,25.74,Sur-evalue
+Savigny-le-temple,77176,77,Appartement,vente,entreparticuliers,72.0,215000.0,4.0,1.0,2986.11,4011.5,-25.56,Sous-evalue
+Villeneuve,06270,06,Appartement,vente,orpi,27.0,215000.0,2.0,1.0,7962.96,5327.96,49.46,Sur-evalue
+Le Gosier,97190,97,Appartement,vente,orpi,74.0,205000.0,2.0,1.0,2770.27,2992.78,-7.43,Prix marche
+Mérignac,33700,33,Appartement,vente,entreparticuliers,46.0,199000.0,2.0,1.0,4326.09,4735.21,-8.64,Prix marche
+Malakoff,92240,92,Appartement,vente,pap,25.0,199000.0,1.0,1.0,7960.0,8501.12,-6.37,Prix marche
+Paris,75003,75,Appartement,vente,pap,14.3,190000.0,1.0,1.0,13323.98,11270.7,18.22,Sur-evalue
+Mundolsheim,67450,67,Appartement,vente,orpi,100.0,189500.0,3.0,1.0,1895.0,2992.78,-36.68,Sous-evalue
+Corbas,69960,69,Appartement,vente,pap,90.5,185000.0,5.0,3.0,2044.88,4011.5,-49.02,Sous-evalue
+Aucamville,31140,31,Appartement,vente,orpi,52.0,181000.0,3.0,1.0,3480.77,3304.7,5.33,Prix marche
+Saint,59350,59,Appartement,vente,orpi,44.0,181000.0,2.0,1.0,4113.64,3454.77,19.07,Sur-evalue
+Yerres,91330,91,Appartement,vente,orpi,84.0,179000.0,5.0,1.0,2130.95,2992.78,-28.8,Sous-evalue
+Valenciennes,59300,59,Appartement,vente,orpi,50.0,179000.0,2.0,1.0,3580.0,3304.7,8.33,Prix marche
+Marseille,13013,13,Appartement,vente,pap,65.0,175000.0,4.0,3.0,2692.31,4011.5,-32.89,Sous-evalue
+Montreuil,93100,93,Appartement,vente,pap,26.0,169900.0,1.0,1.0,6534.62,4753.65,37.47,Sur-evalue
+Bihorel,76420,76,Appartement,vente,entreparticuliers,76.0,169600.0,4.0,1.0,2231.58,4011.5,-44.37,Sous-evalue
+Toulouse,31200,31,Appartement,vente,orpi,56.0,169600.0,3.0,1.0,3028.57,3304.7,-8.36,Prix marche
+Ramonville-saint-agne,31520,31,Appartement,vente,entreparticuliers,45.0,169000.0,2.0,1.0,3755.56,4473.49,-16.05,Sous-evalue
+Brétigny-sur-orge,91220,91,Appartement,vente,pap,46.0,167000.0,2.0,1.0,3630.43,4473.49,-18.85,Sous-evalue
+Neuilly-plaisance,93360,93,Appartement,vente,entreparticuliers,30.0,158500.0,2.0,1.0,5283.33,4753.65,11.14,Prix marche
+Paris,75016,75,Appartement,vente,pap,15.0,158000.0,2.0,1.0,10533.33,11270.7,-6.54,Prix marche
+Paris,75001,75,Appartement,vente,pap,9.5,150000.0,1.0,1.0,15856.24,11270.7,40.69,Sur-evalue
+Saint,62280,62,Appartement,vente,orpi,50.0,148600.0,2.0,1.0,2972.0,3068.0,-3.13,Prix marche
+Pau,64000,64,Appartement,vente,orpi,67.0,130000.0,3.0,1.0,1940.3,2992.78,-35.17,Sous-evalue
+Saint,02100,02,Appartement,vente,orpi,118.0,126900.0,5.0,1.0,1075.42,2947.91,-63.52,Sous-evalue
+Toulouse,31300,31,Appartement,vente,orpi,35.0,125000.0,2.0,1.0,3571.43,3454.77,3.38,Prix marche
+Grenoble,38000,38,Appartement,vente,pap,53.0,124000.0,3.0,2.0,2339.62,3707.04,-36.89,Sous-evalue
+Nice,06000,06,Appartement,vente,pap,17.4,112000.0,1.0,1.0,6429.39,7086.89,-9.28,Prix marche
+Saint,88100,88,Appartement,vente,orpi,67.0,99500.0,3.0,1.0,1485.07,2682.83,-44.65,Sous-evalue
+Villers,14640,14,Appartement,vente,orpi,32.0,93650.0,2.0,1.0,2926.56,3540.62,-17.34,Sous-evalue
+Boulogne,62200,62,Appartement,vente,orpi,27.0,51000.0,2.0,1.0,1888.89,3218.07,-41.3,Sous-evalue
+Malakoff,92240,92,Maison,vente,pap,151.0,1372900.0,3.0,5.0,9092.05,6402.06,42.02,Sur-evalue
+Garches,92380,92,Maison,vente,pap,200.0,1350000.0,3.0,4.0,6750.0,6314.31,6.9,Prix marche
+Saint-cloud,92210,92,Maison,vente,pap,150.0,1330000.0,3.0,3.0,8866.67,6402.06,38.5,Sur-evalue
+Garches,92380,92,Maison,vente,pap,180.0,1240000.0,3.0,5.0,6888.89,6314.31,9.1,Prix marche
+Chessy,77700,77,Maison,vente,orpi,175.0,1095000.0,7.0,1.0,6257.14,3015.37,107.51,Sur-evalue
+Rueil-malmaison,92500,92,Maison,vente,pap,140.0,980000.0,3.0,4.0,7000.0,6402.06,9.34,Prix marche
+Lamorlaye,60260,60,Maison,vente,pap,245.0,952000.0,8.0,5.0,3885.71,3394.41,14.47,Prix marche
+Châtenay-malabry,92290,92,Maison,vente,pap,140.0,900000.0,3.0,4.0,6428.57,6402.06,0.41,Prix marche
+Possession,97419,97,Maison,vente,pap,135.0,790000.0,6.0,4.0,5851.85,3482.16,68.05,Sur-evalue
+Ivry-sur-seine,94200,94,Maison,vente,pap,152.0,772900.0,3.0,5.0,5084.87,4550.6,11.74,Prix marche
+Maisons-alfort,94700,94,Maison,vente,pap,132.0,768900.0,3.0,4.0,5825.0,4550.6,28.01,Sur-evalue
+Chennevières-sur-marne,94430,94,Maison,vente,pap,148.0,755000.0,5.0,2.0,5101.35,4550.6,12.1,Prix marche
+Étang-salé,97427,97,Maison,vente,pap,130.0,748000.0,6.0,5.0,5753.85,3482.16,65.24,Sur-evalue
+Carros,06510,06,Maison,vente,pap,105.0,710000.0,5.0,3.0,6761.9,5217.71,29.6,Sur-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,124.0,683900.0,3.0,4.0,5515.32,4550.6,21.2,Sur-evalue
+Perreux-sur-marne,94170,94,Maison,vente,pap,95.0,665000.0,4.0,3.0,7000.0,4720.32,48.29,Sur-evalue
+Ajaccio,20000,20,Maison,vente,pap,140.0,650000.0,4.0,3.0,4642.86,3966.63,17.05,Sur-evalue
+Épinay-sur-seine,93800,93,Maison,vente,pap,165.0,642900.0,3.0,5.0,3896.36,3836.13,1.57,Prix marche
+Cabrières,84240,84,Maison,vente,orpi,159.0,630000.0,5.0,1.0,3962.26,2860.15,38.53,Sur-evalue
+Villeneuve-en-retz,44580,44,Maison,vente,pap,250.0,616550.0,9.0,5.0,2466.2,3394.41,-27.35,Sous-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,91.0,615000.0,3.0,3.0,6758.24,4720.32,43.17,Sur-evalue
+Oullins,69600,69,Maison,vente,orpi,117.0,585000.0,5.0,1.0,5000.0,2947.91,69.61,Sur-evalue
+Villetelle,34400,34,Maison,vente,orpi,151.0,559000.0,4.0,1.0,3701.99,2947.91,25.58,Sur-evalue
+Le Teich,33470,33,Maison,vente,orpi,157.0,549000.0,6.0,1.0,3496.82,2884.05,21.25,Sur-evalue
+Épinay-sur-seine,93800,93,Maison,vente,pap,128.0,546900.0,3.0,3.0,4272.66,3923.88,8.89,Prix marche
+Vitry-sur-seine,94400,94,Maison,vente,pap,131.0,545000.0,3.0,3.0,4160.31,4550.6,-8.58,Prix marche
+Orsay,91400,91,Maison,vente,orpi,143.0,540000.0,7.0,1.0,3776.22,2651.78,42.4,Sur-evalue
+Saint-paul,97400,97,Maison,vente,pap,107.7,540000.0,5.0,4.0,5013.93,3966.63,26.4,Sur-evalue
+Saint-pierre,97400,97,Maison,vente,pap,150.0,529000.0,4.0,3.0,3526.67,3966.63,-11.09,Prix marche
+Queue-en-brie,94510,94,Maison,vente,pap,143.0,525000.0,6.0,4.0,3671.33,3937.76,-6.77,Prix marche
+Wissant,62179,62,Maison,vente,orpi,94.0,504000.0,5.0,1.0,5361.7,2756.07,94.54,Sur-evalue
+Villejuif,94800,94,Maison,vente,pap,132.0,503126.0,3.0,5.0,3811.56,4550.6,-16.24,Sous-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,102.0,499400.0,3.0,4.0,4896.08,4550.6,7.59,Prix marche
+Barbentane,13570,13,Maison,vente,orpi,180.0,480000.0,6.0,1.0,2666.67,2564.03,4.0,Prix marche
+Villejuif,94800,94,Maison,vente,pap,102.0,476819.0,3.0,4.0,4674.7,4550.6,2.73,Prix marche
+Lille,59000,59,Maison,vente,orpi,185.0,452350.0,6.0,1.0,2445.14,2564.03,-4.64,Prix marche
+Argenteuil,95100,95,Maison,vente,pap,88.0,439900.0,3.0,3.0,4998.86,4011.5,24.61,Sur-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,138.0,438529.0,3.0,5.0,3177.75,3923.88,-19.02,Sous-evalue
+Saint,97118,97,Maison,vente,orpi,162.0,430000.0,5.0,1.0,2654.32,2860.15,-7.2,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,132.0,399999.0,3.0,5.0,3030.3,4550.6,-33.41,Sous-evalue
+La Verpillière,38290,38,Maison,vente,orpi,164.0,399000.0,7.0,1.0,2432.93,2309.81,5.33,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,112.0,399000.0,3.0,4.0,3562.5,4550.6,-21.71,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,110.0,399000.0,3.0,4.0,3627.27,3966.63,-8.56,Prix marche
+Bezons,95870,95,Maison,vente,pap,132.0,396000.0,3.0,5.0,3000.0,3966.63,-24.37,Sous-evalue
+Rosny-sous-bois,93110,93,Maison,vente,pap,132.0,382900.0,3.0,5.0,2900.76,3923.88,-26.07,Sous-evalue
+Saint-jeanvrin,18370,18,Maison,vente,pap,190.0,380000.0,6.0,5.0,2000.0,3394.41,-41.08,Sous-evalue
+Longpont-sur-orge,91310,91,Maison,vente,pap,140.0,379000.0,7.0,5.0,2707.14,3482.16,-22.26,Sous-evalue
+Rosny-sous-bois,93110,93,Maison,vente,pap,118.0,369900.0,3.0,4.0,3134.75,3923.88,-20.11,Sous-evalue
+Rosny-sous-bois,93110,93,Maison,vente,pap,130.0,363000.0,3.0,4.0,2792.31,3923.88,-28.84,Sous-evalue
+Paris,75020,75,Maison,vente,pap,43.0,360000.0,2.0,1.0,8372.09,11184.85,-25.15,Sous-evalue
+Plouégat-guérand,29620,29,Maison,vente,entreparticuliers,195.0,359000.0,6.0,1.0,1841.03,3138.41,-41.34,Sous-evalue
+Pierre,69310,69,Maison,vente,orpi,88.0,350000.0,4.0,1.0,3977.27,2992.78,32.9,Sur-evalue
+Gallardon,28320,28,Maison,vente,orpi,125.0,349650.0,7.0,1.0,2797.2,2651.78,5.48,Prix marche
+Chatuzange,26300,26,Maison,vente,orpi,109.0,349000.0,4.0,1.0,3201.83,2947.91,8.61,Prix marche
+Tremblay,93290,93,Maison,vente,orpi,102.0,349000.0,4.0,1.0,3421.57,2905.16,17.78,Sur-evalue
+Bezons,95870,95,Maison,vente,pap,96.0,346000.0,3.0,3.0,3604.17,4011.5,-10.15,Prix marche
+Bondy,93140,93,Maison,vente,pap,110.0,345000.0,3.0,4.0,3136.36,3923.88,-20.07,Sous-evalue
+Rochefort,17300,17,Maison,vente,orpi,125.0,332325.0,5.0,1.0,2658.6,3130.44,-15.07,Sous-evalue
+Macouria,97355,97,Maison,vente,orpi,180.0,330720.0,5.0,1.0,1837.33,2860.15,-35.76,Sous-evalue
+Rosny-sous-bois,93110,93,Maison,vente,pap,69.0,324900.0,3.0,3.0,4708.7,4205.8,11.96,Prix marche
+Rosny-sous-bois,93110,93,Maison,vente,pap,78.0,317900.0,3.0,3.0,4075.64,4205.8,-3.09,Prix marche
+Villejuif,94800,94,Maison,vente,pap,48.0,309900.0,3.0,1.0,6456.25,5164.77,25.01,Sur-evalue
+Ars,17590,17,Maison,vente,orpi,38.0,308000.0,3.0,1.0,8105.26,5794.86,39.87,Sur-evalue
+Féchain,59247,59,Maison,vente,orpi,226.0,299900.0,6.0,1.0,1326.99,2564.03,-48.25,Sous-evalue
+Pompignan,82170,82,Maison,vente,orpi,115.0,286800.0,5.0,1.0,2493.91,2947.91,-15.4,Sous-evalue
+Osny,95520,95,Maison,vente,orpi,72.0,286200.0,4.0,1.0,3975.0,2992.78,32.82,Sur-evalue
+Groissiat,01100,01,Maison,vente,pap,115.0,285000.0,4.0,2.0,2478.26,3966.63,-37.52,Sous-evalue
+Rochefort,17300,17,Maison,vente,orpi,112.0,284850.0,4.0,1.0,2543.3,3107.38,-18.15,Sous-evalue
+Saint,40230,40,Maison,vente,orpi,77.0,275000.0,4.0,1.0,3571.43,2992.78,19.33,Sur-evalue
+Fay,80200,80,Maison,vente,orpi,156.0,272190.0,5.0,1.0,1744.81,2860.15,-39.0,Sous-evalue
+Groslay,95410,95,Maison,vente,orpi,70.0,250000.0,4.0,1.0,3571.43,2992.78,19.33,Sur-evalue
+Amiens,80000,80,Maison,vente,pap,105.0,248000.0,5.0,3.0,2361.9,3966.63,-40.46,Sous-evalue
+Gandrange,57175,57,Maison,vente,orpi,90.0,239000.0,5.0,1.0,2655.56,2992.78,-11.27,Prix marche
+Vaujours,93410,93,Maison,vente,orpi,65.0,239000.0,4.0,1.0,3676.92,3187.08,15.37,Sur-evalue
+Pierrelatte,26700,26,Maison,vente,orpi,90.0,235000.0,3.0,1.0,2611.11,2992.78,-12.75,Prix marche
+Cholet,49300,49,Maison,vente,orpi,102.0,234300.0,4.0,1.0,2297.06,2947.91,-22.08,Sous-evalue
+Tourcoing,59200,59,Maison,vente,orpi,105.0,232900.0,3.0,1.0,2218.1,2947.91,-24.76,Sous-evalue
+La Neuville,08310,08,Maison,vente,orpi,120.0,230000.0,4.0,1.0,1916.67,2947.91,-34.98,Sous-evalue
+Muzillac,56190,56,Maison,vente,orpi,105.0,199395.0,5.0,1.0,1899.0,2947.91,-35.58,Sous-evalue
+Monviel,47290,47,Maison,vente,entreparticuliers,167.0,195000.0,8.0,1.0,1167.66,3138.41,-62.79,Sous-evalue
+Carcassonne,11000,11,Maison,vente,orpi,101.0,192000.0,4.0,1.0,1900.99,2992.78,-36.48,Sous-evalue
+Le Portel,62480,62,Maison,vente,orpi,74.0,188000.0,3.0,1.0,2540.54,2756.07,-7.82,Prix marche
+Valence,82400,82,Maison,vente,pap,115.0,178500.0,5.0,4.0,1552.17,3966.63,-60.87,Sous-evalue
+Boulogne,62200,62,Maison,vente,orpi,90.0,166600.0,3.0,1.0,1851.11,2756.07,-32.84,Sous-evalue
+Breuillet,17920,17,Maison,vente,orpi,57.0,164800.0,3.0,1.0,2891.23,3486.47,-17.07,Sous-evalue
+Épinal,88000,88,Maison,vente,orpi,109.0,141700.0,6.0,1.0,1300.0,2373.02,-45.22,Sous-evalue
+La Lande,61210,61,Maison,vente,orpi,116.0,141300.0,3.0,1.0,1218.1,2596.46,-53.09,Sous-evalue
+Saint,41110,41,Maison,vente,orpi,85.0,138450.0,3.0,1.0,1628.82,2992.78,-45.57,Sous-evalue
+Cannes,06150,06,Appartement,vente,pap,150.0,1350000.0,6.0,5.0,9000.0,7462.37,20.61,Sur-evalue
+Paris,75019,75,Appartement,vente,pap,135.0,1300000.0,6.0,3.0,9629.63,10193.51,-5.53,Prix marche
+Paris,75010,75,Appartement,vente,pap,110.0,1195000.0,5.0,3.0,10863.64,10677.98,1.74,Prix marche
+Paris,75004,75,Appartement,vente,pap,89.0,1180000.0,3.0,2.0,13258.43,10722.85,23.65,Sur-evalue
+Paris,75014,75,Appartement,vente,pap,106.0,1060000.0,4.0,2.0,10000.0,10677.98,-6.35,Prix marche
+Paris,75006,75,Appartement,vente,pap,61.0,1020000.0,3.0,2.0,16721.31,11034.78,51.53,Sur-evalue
+Paris,75011,75,Appartement,vente,pap,80.0,1010000.0,4.0,2.0,12625.0,10722.85,17.74,Sur-evalue
+Saint-mandé,94160,94,Appartement,vente,pap,108.0,960000.0,4.0,3.0,8888.89,4550.6,95.33,Sur-evalue
+Megève,74120,74,Appartement,vente,entreparticuliers,84.0,925000.0,3.0,1.0,11011.9,6275.3,75.48,Sur-evalue
+Paris,75010,75,Appartement,vente,pap,106.0,910000.0,5.0,3.0,8584.91,10677.98,-19.6,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,75.0,898000.0,4.0,3.0,11973.33,10722.85,11.66,Prix marche
+Paris,75018,75,Appartement,vente,pap,84.0,795000.0,4.0,2.0,9464.29,10722.85,-11.74,Prix marche
+Clamart,92140,92,Appartement,vente,pap,107.0,710000.0,5.0,4.0,6635.51,6402.06,3.65,Prix marche
+Paris,75006,75,Appartement,vente,pap,60.5,690000.0,3.0,2.0,11404.96,11034.78,3.35,Prix marche
+Paris,75014,75,Appartement,vente,pap,79.0,680000.0,3.0,2.0,8607.59,10722.85,-19.73,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,64.0,650000.0,3.0,2.0,10156.25,11034.78,-7.96,Prix marche
+Paris,75001,75,Appartement,vente,entreparticuliers,27.0,650000.0,1.0,1.0,24074.07,11270.7,113.6,Sur-evalue
+Paris,75012,75,Appartement,vente,pap,62.0,649000.0,3.0,2.0,10467.74,11034.78,-5.14,Prix marche
+Possession,97419,97,Appartement,vente,pap,230.0,630000.0,4.0,3.0,2739.13,3878.88,-29.38,Sous-evalue
+Paris,75020,75,Appartement,vente,pap,61.0,615000.0,3.0,2.0,10081.97,11034.78,-8.63,Prix marche
+Antony,92160,92,Appartement,vente,orpi,108.0,595000.0,6.0,1.0,5509.26,6105.94,-9.77,Prix marche
+Meudon,92190,92,Appartement,vente,pap,88.0,570000.0,3.0,2.0,6477.27,6446.93,0.47,Prix marche
+Paris,75003,75,Appartement,vente,pap,45.0,570000.0,2.0,1.0,12666.67,11184.85,13.25,Prix marche
+Paris,75003,75,Appartement,vente,pap,36.0,570000.0,2.0,1.0,15833.33,11184.85,41.56,Sur-evalue
+Chaponost,69630,69,Appartement,vente,pap,108.0,540000.0,5.0,4.0,5000.0,3966.63,26.05,Sur-evalue
+Paris,75018,75,Appartement,vente,pap,41.0,510000.0,3.0,1.0,12439.02,11184.85,11.21,Prix marche
+Puteaux,92800,92,Appartement,vente,pap,92.0,480000.0,3.0,2.0,5217.39,6446.93,-19.07,Sous-evalue
+Paris,75013,75,Appartement,vente,pap,38.0,480000.0,2.0,1.0,12631.58,11184.85,12.93,Prix marche
+Meudon,92190,92,Appartement,vente,pap,67.0,470000.0,3.0,2.0,7014.93,6446.93,8.81,Prix marche
+Paris,75015,75,Appartement,vente,pap,45.0,470000.0,2.0,1.0,10444.44,11184.85,-6.62,Prix marche
+Nogent-sur-marne,94130,94,Appartement,vente,pap,81.0,469000.0,4.0,3.0,5790.12,4720.32,22.66,Sur-evalue
+Paris,75012,75,Appartement,vente,pap,43.0,465000.0,2.0,1.0,10813.95,11184.85,-3.32,Prix marche
+Paris,75006,75,Appartement,vente,pap,22.0,450000.0,1.0,1.0,20454.55,11270.7,81.48,Sur-evalue
+Saint-cloud,92210,92,Appartement,vente,pap,75.0,430000.0,4.0,3.0,5733.33,6446.93,-11.07,Prix marche
+Paris,75015,75,Appartement,vente,pap,41.0,430000.0,2.0,1.0,10487.8,11184.85,-6.23,Prix marche
+Paris,75007,75,Appartement,vente,pap,30.0,425000.0,2.0,1.0,14166.67,11270.7,25.69,Sur-evalue
+Paris,75018,75,Appartement,vente,pap,41.0,415000.0,2.0,1.0,10121.95,11184.85,-9.5,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,50.0,408000.0,3.0,2.0,8160.0,6758.86,20.73,Sur-evalue
+Rennes,35000,35,Appartement,vente,entreparticuliers,78.0,399000.0,4.0,1.0,5115.38,4011.5,27.52,Sur-evalue
+La Teste,33260,33,Appartement,vente,orpi,82.0,380000.0,4.0,1.0,4634.15,3312.79,39.89,Sur-evalue
+Aix-en-provence,13080,13,Appartement,vente,entreparticuliers,66.0,380000.0,3.0,1.0,5757.58,4011.5,43.53,Sur-evalue
+Saint,17410,17,Appartement,vente,orpi,61.0,378000.0,2.0,1.0,6196.72,4242.71,46.06,Sur-evalue
+Saint,17410,17,Appartement,vente,orpi,46.0,367500.0,2.0,1.0,7989.13,4348.48,83.72,Sur-evalue
+Romainville,93230,93,Appartement,vente,pap,66.0,350000.0,3.0,2.0,5303.03,4205.8,26.09,Sur-evalue
+Paris,75015,75,Appartement,vente,pap,36.3,350000.0,2.0,1.0,9631.26,11184.85,-13.89,Prix marche
+Lille,59000,59,Appartement,vente,pap,88.0,349000.0,4.0,3.0,3965.91,4011.5,-1.14,Prix marche
+Chennevières-sur-marne,94430,94,Appartement,vente,entreparticuliers,92.0,339000.0,5.0,1.0,3684.78,4720.32,-21.94,Sous-evalue
+Paris,75015,75,Appartement,vente,pap,37.0,338000.0,2.0,1.0,9135.14,11184.85,-18.33,Sous-evalue
+Paris,75015,75,Appartement,vente,pap,38.2,329000.0,2.0,1.0,8612.57,11184.85,-23.0,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,38.0,320000.0,3.0,1.0,8421.05,11184.85,-24.71,Sous-evalue
+Nanterre,92000,92,Appartement,vente,pap,59.4,315000.0,3.0,2.0,5303.03,6758.86,-21.54,Sous-evalue
+Mittelhausbergen,67206,67,Appartement,vente,entreparticuliers,68.0,300000.0,3.0,1.0,4411.76,4011.5,9.98,Prix marche
+Bouscat,33110,33,Appartement,vente,pap,60.0,300000.0,2.0,1.0,5000.0,4585.13,9.05,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,35.0,300000.0,2.0,1.0,8571.43,8415.28,1.86,Prix marche
+Paris,75012,75,Appartement,vente,pap,29.0,299000.0,2.0,1.0,10310.34,11270.7,-8.52,Prix marche
+Paris,75018,75,Appartement,vente,pap,33.0,298000.0,2.0,1.0,9030.3,11184.85,-19.26,Sous-evalue
+Vanves,92170,92,Appartement,vente,orpi,44.0,296400.0,2.0,1.0,6736.36,6908.93,-2.5,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,37.0,290000.0,2.0,1.0,7837.84,8415.28,-6.86,Prix marche
+Thionville,57100,57,Appartement,vente,orpi,75.0,289000.0,4.0,1.0,3853.33,2992.78,28.75,Sur-evalue
+Le Plessis-robinson,92350,92,Appartement,vente,entreparticuliers,80.0,288750.0,4.0,1.0,3609.38,6446.93,-44.01,Sous-evalue
+Saint-fargeau-ponthierry,77310,77,Appartement,vente,pap,120.0,285000.0,7.0,3.0,2375.0,3482.16,-31.8,Sous-evalue
+La Penne,13821,13,Appartement,vente,orpi,85.0,279500.0,4.0,1.0,3288.24,2992.78,9.87,Prix marche
+Paris,75012,75,Appartement,vente,pap,27.9,279000.0,1.0,1.0,10007.17,11270.7,-11.21,Prix marche
+Poissy,78300,78,Appartement,vente,pap,65.0,278500.0,4.0,3.0,4284.62,3957.91,8.25,Prix marche
+Mandelieu-la-napoule,06210,06,Appartement,vente,pap,40.4,275000.0,3.0,2.0,6806.93,6260.84,8.72,Prix marche
+Marseille,13001,13,Appartement,vente,entreparticuliers,54.0,259000.0,2.0,1.0,4796.3,4323.42,10.94,Prix marche
+Saint-denis,97400,97,Appartement,vente,pap,74.0,255000.0,3.0,2.0,3445.95,4011.5,-14.1,Prix marche
+Lognes,77185,77,Appartement,vente,orpi,53.0,249000.0,3.0,1.0,4698.11,3304.7,42.16,Sur-evalue
+Marseille 4,13004,13,Appartement,vente,orpi,52.0,249000.0,3.0,1.0,4788.46,3304.7,44.9,Sur-evalue
+Noisy,93160,93,Appartement,vente,orpi,52.0,248700.0,2.0,1.0,4782.69,3499.01,36.69,Sur-evalue
+Montigny-le-bretonneux,78180,78,Appartement,vente,entreparticuliers,51.0,245000.0,2.0,1.0,4803.92,4610.23,4.2,Prix marche
+Paris,75007,75,Appartement,vente,pap,12.0,240000.0,1.0,1.0,20000.0,11270.7,77.45,Sur-evalue
+Savigny-sur-orge,91600,91,Appartement,vente,pap,69.0,235000.0,3.0,2.0,3405.8,4011.5,-15.1,Sous-evalue
+Le Cannet,06110,06,Appartement,vente,orpi,51.0,233000.0,2.0,1.0,4568.63,4549.78,0.41,Prix marche
+Caissargues,30132,30,Appartement,vente,orpi,55.0,230000.0,2.0,1.0,4181.82,3304.7,26.54,Sur-evalue
+Auzeville-tolosane,31320,31,Appartement,vente,entreparticuliers,82.0,229500.0,4.0,1.0,2798.78,4011.5,-30.23,Sous-evalue
+Le Gosier,97190,97,Appartement,vente,orpi,44.0,220000.0,2.0,1.0,5000.0,3454.77,44.73,Sur-evalue
+Avrillé,49240,49,Appartement,vente,pap,68.0,219000.0,3.0,2.0,3220.59,4011.5,-19.72,Sous-evalue
+Yerres,91330,91,Appartement,vente,pap,60.0,215000.0,3.0,2.0,3583.33,4323.42,-17.12,Sous-evalue
+Chelles,77500,77,Appartement,vente,orpi,61.0,209000.0,3.0,1.0,3426.23,3304.7,3.68,Prix marche
+Orléans,45000,45,Appartement,vente,pap,76.0,205000.0,3.0,2.0,2697.37,4011.5,-32.76,Sous-evalue
+Marseille 8,13008,13,Appartement,vente,orpi,55.0,199000.0,3.0,1.0,3618.18,3304.7,9.49,Prix marche
+Paris,75010,75,Appartement,vente,pap,19.0,199000.0,1.0,1.0,10473.68,11270.7,-7.07,Prix marche
+La Verpillière,38290,38,Appartement,vente,orpi,81.0,198800.0,3.0,1.0,2454.32,2637.96,-6.96,Prix marche
+Cervione,20221,20,Appartement,vente,entreparticuliers,110.0,191000.0,4.0,1.0,1736.36,3966.63,-56.23,Sous-evalue
+Livry-gargan,93190,93,Appartement,vente,pap,39.0,190000.0,2.0,1.0,4871.79,4667.8,4.37,Prix marche
+Paris,75018,75,Appartement,vente,pap,22.0,190000.0,1.0,1.0,8636.36,11270.7,-23.37,Sous-evalue
+Avignon,84000,84,Appartement,vente,entreparticuliers,39.0,186000.0,2.0,1.0,4769.23,4473.49,6.61,Prix marche
+Castanet,31320,31,Appartement,vente,orpi,58.0,179500.0,3.0,1.0,3094.83,3304.7,-6.35,Prix marche
+Lille,59000,59,Appartement,vente,pap,37.2,178000.0,2.0,1.0,4781.09,4473.49,6.88,Prix marche
+Miramas,13140,13,Appartement,vente,orpi,55.0,169000.0,3.0,1.0,3072.73,3304.7,-7.02,Prix marche
+Choisy,94600,94,Appartement,vente,orpi,52.0,169000.0,2.0,1.0,3250.0,3697.23,-12.1,Prix marche
+Paris,75010,75,Appartement,vente,pap,15.0,168000.0,1.0,1.0,11200.0,11270.7,-0.63,Prix marche
+Vic-la-gardiole,34110,34,Appartement,vente,pap,43.0,167500.0,2.0,1.0,3895.35,4473.49,-12.92,Prix marche
+Cayenne,97300,97,Appartement,vente,orpi,67.0,167400.0,3.0,1.0,2498.51,2992.78,-16.52,Sous-evalue
+Trappes,78190,78,Appartement,vente,pap,79.0,163000.0,4.0,3.0,2063.29,3957.91,-47.87,Sous-evalue
+Boulogne,62200,62,Appartement,vente,orpi,75.0,161600.0,3.0,1.0,2154.67,2756.07,-21.82,Sous-evalue
+Biscarrosse,40600,40,Appartement,vente,orpi,27.0,159500.0,2.0,1.0,5907.41,3540.62,66.85,Sur-evalue
+Pégomas,06580,06,Appartement,vente,entreparticuliers,32.0,155000.0,2.0,1.0,4843.75,6346.68,-23.68,Sous-evalue
+Versailles,78000,78,Appartement,vente,pap,17.8,152000.0,2.0,1.0,8534.53,5588.38,52.72,Sur-evalue
+Blois,41000,41,Appartement,vente,pap,85.0,149900.0,4.0,2.0,1763.53,4011.5,-56.04,Sous-evalue
+Jarville,54140,54,Appartement,vente,orpi,140.0,149000.0,6.0,1.0,1064.29,2651.78,-59.87,Sous-evalue
+Aurillac,15000,15,Appartement,vente,orpi,78.0,146500.0,4.0,1.0,1878.21,2992.78,-37.24,Sous-evalue
+Chesnay-rocquencourt,78150,78,Appartement,vente,pap,21.0,140000.0,1.0,1.0,6666.67,5263.57,26.66,Sur-evalue
+Persan,95340,95,Appartement,vente,orpi,41.0,139900.0,2.0,1.0,3412.2,3454.77,-1.23,Prix marche
+Albertville,73200,73,Appartement,vente,orpi,57.0,139000.0,3.0,1.0,2438.6,3304.7,-26.21,Sous-evalue
+Nancy,54000,54,Appartement,vente,pap,73.0,137000.0,4.0,3.0,1876.71,4011.5,-53.22,Sous-evalue
+Boulogne,62200,62,Appartement,vente,orpi,68.0,135900.0,3.0,1.0,1998.53,2756.07,-27.49,Sous-evalue
+Garges-lès-gonesse,95140,95,Appartement,vente,pap,52.0,135000.0,2.0,1.0,2596.15,4323.42,-39.95,Sous-evalue
+Metz,57000,57,Appartement,vente,entreparticuliers,45.0,134900.0,2.0,1.0,2997.78,4473.49,-32.99,Sous-evalue
+Lille,59800,59,Appartement,vente,orpi,29.0,129000.0,2.0,1.0,4448.28,3540.62,25.64,Sur-evalue
+Boulogne,62200,62,Appartement,vente,orpi,71.0,127200.0,3.0,1.0,1791.55,2756.07,-35.0,Sous-evalue
+Boulogne,62200,62,Appartement,vente,orpi,60.0,125200.0,3.0,1.0,2086.67,3068.0,-31.99,Sous-evalue
+Saran,45770,45,Appartement,vente,entreparticuliers,52.0,122700.0,2.0,1.0,2359.62,4323.42,-45.42,Sous-evalue
+Douai,59500,59,Appartement,vente,orpi,89.0,120390.0,3.0,1.0,1352.7,2992.78,-54.8,Sous-evalue
+Metz,57070,57,Appartement,vente,orpi,37.0,120000.0,2.0,1.0,3243.24,3454.77,-6.12,Prix marche
+Mainvilliers,28300,28,Appartement,vente,pap,56.0,118000.0,2.0,1.0,2107.14,4323.42,-51.26,Sous-evalue
+Marseille,13001,13,Appartement,vente,entreparticuliers,23.0,118000.0,1.0,1.0,5130.43,4559.34,12.53,Prix marche
+Mons,59370,59,Appartement,vente,orpi,49.0,116600.0,2.0,1.0,2379.59,3304.7,-27.99,Sous-evalue
+Tourcoing,59200,59,Appartement,vente,orpi,57.0,108000.0,2.0,1.0,1894.74,3304.7,-42.67,Sous-evalue
+Barjols,83670,83,Appartement,vente,entreparticuliers,48.0,89000.0,3.0,1.0,1854.17,4473.49,-58.55,Sous-evalue
+Saint,66750,66,Appartement,vente,orpi,25.0,83000.0,1.0,1.0,3320.0,3540.62,-6.23,Prix marche
+Olivet,45160,45,Appartement,vente,orpi,25.0,77000.0,1.0,1.0,3080.0,3540.62,-13.01,Prix marche
+École,78210,78,Appartement,vente,pap,20.0,75000.0,1.0,1.0,3750.0,5263.57,-28.76,Sous-evalue
+Saint,88100,88,Appartement,vente,orpi,69.0,69900.0,4.0,1.0,1013.04,2588.43,-60.86,Sous-evalue
+Paris,75019,75,Maison,vente,pap,111.0,1370000.0,5.0,3.0,12342.34,10677.98,15.59,Sur-evalue
+Rueil-malmaison,92500,92,Maison,vente,pap,190.0,1143000.0,3.0,4.0,6015.79,6314.31,-4.73,Prix marche
+Bayonne,64100,64,Maison,vente,orpi,184.0,890000.0,6.0,1.0,4836.96,2564.03,88.65,Sur-evalue
+Paris,75017,75,Maison,vente,pap,64.0,890000.0,4.0,2.0,13906.25,11034.78,26.02,Sur-evalue
+Saint-cloud,92210,92,Maison,vente,pap,120.0,876000.0,3.0,3.0,7300.0,6402.06,14.03,Prix marche
+Neuilly-plaisance,93360,93,Maison,vente,pap,165.0,852900.0,3.0,5.0,5169.09,3836.13,34.75,Sur-evalue
+Rueil-malmaison,92500,92,Maison,vente,pap,128.0,848900.0,3.0,3.0,6632.03,6402.06,3.59,Prix marche
+Rueil-malmaison,92500,92,Maison,vente,pap,150.0,780000.0,3.0,4.0,5200.0,6402.06,-18.78,Sous-evalue
+Uchaud,30620,30,Maison,vente,orpi,261.0,769000.0,7.0,1.0,2946.36,2564.03,14.91,Prix marche
+Saint-médard-en-jalles,33160,33,Maison,vente,pap,183.0,750000.0,6.0,4.0,4098.36,3714.42,10.34,Prix marche
+Neuilly-plaisance,93360,93,Maison,vente,pap,133.0,740000.0,3.0,4.0,5563.91,3923.88,41.8,Sur-evalue
+Maisons-alfort,94700,94,Maison,vente,pap,90.0,733900.0,3.0,4.0,8154.44,4720.32,72.75,Sur-evalue
+Antony,92160,92,Maison,vente,pap,123.0,720000.0,3.0,5.0,5853.66,6402.06,-8.57,Prix marche
+Maisons-alfort,94700,94,Maison,vente,pap,90.0,642900.0,3.0,4.0,7143.33,4720.32,51.33,Sur-evalue
+Arcachon,33120,33,Maison,vente,pap,84.1,630000.0,4.0,3.0,7488.41,4331.51,72.88,Sur-evalue
+Paris,75013,75,Maison,vente,pap,57.0,630000.0,2.0,1.0,11052.63,11034.78,0.16,Prix marche
+Haÿ-les-roses,94240,94,Maison,vente,pap,124.0,629999.0,3.0,4.0,5080.64,4550.6,11.65,Prix marche
+Rueil-malmaison,92500,92,Maison,vente,pap,93.0,628900.0,3.0,3.0,6762.37,6446.93,4.89,Prix marche
+Rueil-malmaison,92500,92,Maison,vente,pap,87.0,602900.0,3.0,3.0,6929.89,6446.93,7.49,Prix marche
+Fontenay-aux-roses,92260,92,Maison,vente,pap,104.0,551400.0,3.0,3.0,5301.92,6402.06,-17.18,Sous-evalue
+Froeningen,68720,68,Maison,vente,orpi,128.0,535000.0,4.0,1.0,4179.69,2947.91,41.78,Sur-evalue
+Paris,75020,75,Maison,vente,pap,42.0,515000.0,3.0,2.0,12261.9,11184.85,9.63,Prix marche
+Châtenay-malabry,92290,92,Maison,vente,pap,104.0,513900.0,3.0,3.0,4941.35,6402.06,-22.82,Sous-evalue
+Fresnes,94260,94,Maison,vente,pap,136.0,490000.0,3.0,4.0,3602.94,4550.6,-20.82,Sous-evalue
+Mont-de-marsan,40000,40,Maison,vente,entreparticuliers,270.0,470000.0,9.0,1.0,1740.74,3138.41,-44.53,Sous-evalue
+Villejuif,94800,94,Maison,vente,pap,90.0,463900.0,3.0,4.0,5154.44,4720.32,9.2,Prix marche
+Argenteuil,95100,95,Maison,vente,pap,128.0,459000.0,3.0,4.0,3585.94,3966.63,-9.6,Prix marche
+Saint,69440,69,Maison,vente,orpi,151.0,440000.0,4.0,1.0,2913.91,2947.91,-1.15,Prix marche
+Gournay,93460,93,Maison,vente,orpi,111.0,439000.0,5.0,1.0,3954.95,2905.16,36.14,Sur-evalue
+Haÿ-les-roses,94240,94,Maison,vente,pap,132.0,436072.0,3.0,5.0,3303.58,4550.6,-27.4,Sous-evalue
+Chevilly-larue,94550,94,Maison,vente,pap,97.0,434522.0,3.0,3.0,4479.61,4720.32,-5.1,Prix marche
+Bourget,93350,93,Maison,vente,pap,111.0,424200.0,3.0,4.0,3821.62,3923.88,-2.61,Prix marche
+Choisy-le-roi,94600,94,Maison,vente,pap,140.0,420000.0,3.0,4.0,3000.0,4550.6,-34.07,Sous-evalue
+Maffliers,95560,95,Maison,vente,orpi,92.0,397000.0,4.0,1.0,4315.22,2992.78,44.19,Sur-evalue
+Champigny-sur-marne,94500,94,Maison,vente,pap,95.0,389000.0,3.0,3.0,4094.74,4720.32,-13.25,Prix marche
+Tampon,97430,97,Maison,vente,pap,250.0,378000.0,6.0,5.0,1512.0,3394.41,-55.46,Sous-evalue
+Saint,31140,31,Maison,vente,orpi,132.0,369000.0,5.0,1.0,2795.45,2947.91,-5.17,Prix marche
+Thiais,94320,94,Maison,vente,pap,93.0,368900.0,3.0,3.0,3966.67,4720.32,-15.97,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,104.0,367000.0,3.0,3.0,3528.85,3966.63,-11.04,Prix marche
+Champigny-sur-marne,94500,94,Maison,vente,pap,81.0,365000.0,3.0,3.0,4506.17,4720.32,-4.54,Prix marche
+Drancy,93700,93,Maison,vente,pap,101.0,364900.0,3.0,3.0,3612.87,3968.75,-8.97,Prix marche
+Bezons,95870,95,Maison,vente,pap,97.0,364522.0,3.0,3.0,3757.96,4011.5,-6.32,Prix marche
+Thiais,94320,94,Maison,vente,pap,91.0,360900.0,3.0,3.0,3965.93,4720.32,-15.98,Sous-evalue
+Neuilly-plaisance,93360,93,Maison,vente,pap,106.0,356900.0,3.0,4.0,3366.98,3923.88,-14.19,Prix marche
+Bezons,95870,95,Maison,vente,pap,101.0,356000.0,3.0,3.0,3524.75,4011.5,-12.13,Prix marche
+Baie,97122,97,Maison,vente,orpi,123.0,355000.0,5.0,1.0,2886.18,2947.91,-2.09,Prix marche
+Créteil,94000,94,Maison,vente,pap,104.0,351900.0,3.0,3.0,3383.65,4550.6,-25.64,Sous-evalue
+Vitry-sur-seine,94400,94,Maison,vente,pap,90.0,348900.0,3.0,4.0,3876.67,4720.32,-17.87,Sous-evalue
+Chevilly-larue,94550,94,Maison,vente,pap,127.0,330000.0,3.0,4.0,2598.43,4550.6,-42.9,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,93.0,319000.0,3.0,3.0,3430.11,4011.5,-14.49,Prix marche
+Vaujours,93410,93,Maison,vente,orpi,73.0,319000.0,3.0,1.0,4369.86,3187.08,37.11,Sur-evalue
+Monnaie,37380,37,Maison,vente,orpi,220.0,317600.0,8.0,1.0,1443.64,2564.03,-43.7,Sous-evalue
+Bezons,95870,95,Maison,vente,pap,101.0,309900.0,3.0,3.0,3068.32,4011.5,-23.51,Sous-evalue
+Bondy,93140,93,Maison,vente,pap,90.0,308900.0,3.0,4.0,3432.22,4205.8,-18.39,Sous-evalue
+Knutange,57240,57,Maison,vente,orpi,95.0,305000.0,4.0,1.0,3210.53,2992.78,7.28,Prix marche
+Dammarie,77190,77,Maison,vente,orpi,104.0,303000.0,5.0,1.0,2913.46,2947.91,-1.17,Prix marche
+Cusset,03300,03,Maison,vente,orpi,106.0,299900.0,4.0,1.0,2829.25,2947.91,-4.03,Prix marche
+Morne,97111,97,Maison,vente,orpi,162.0,299000.0,6.0,1.0,1845.68,2564.03,-28.02,Sous-evalue
+Fontaine,91690,91,Maison,vente,orpi,103.0,299000.0,4.0,1.0,2902.91,2947.91,-1.53,Prix marche
+Lille,59000,59,Maison,vente,orpi,95.0,299000.0,5.0,1.0,3147.37,2992.78,5.17,Prix marche
+Sainte,97180,97,Maison,vente,orpi,91.0,299000.0,5.0,1.0,3285.71,2992.78,9.79,Prix marche
+Pechbusque,31320,31,Maison,vente,orpi,68.0,299000.0,4.0,1.0,4397.06,2992.78,46.92,Sur-evalue
+Taverny,95150,95,Maison,vente,orpi,99.0,285000.0,4.0,1.0,2878.79,2992.78,-3.81,Prix marche
+Noisy-le-sec,93130,93,Maison,vente,pap,106.0,269890.0,3.0,4.0,2546.13,3923.88,-35.11,Sous-evalue
+Yerres,91330,91,Maison,vente,orpi,58.0,269000.0,3.0,1.0,4637.93,3304.7,40.34,Sur-evalue
+Poussan,34560,34,Maison,vente,orpi,85.0,265000.0,4.0,1.0,3117.65,2992.78,4.17,Prix marche
+Moulins,57160,57,Maison,vente,orpi,140.0,259000.0,6.0,1.0,1850.0,2651.78,-30.24,Sous-evalue
+Tourcoing,59200,59,Maison,vente,orpi,160.0,249000.0,5.0,1.0,1556.25,2860.15,-45.59,Sous-evalue
+Audenge,33980,33,Maison,vente,orpi,65.0,243800.0,4.0,1.0,3750.77,3312.79,13.22,Prix marche
+Tourcoing,59200,59,Maison,vente,orpi,114.0,239000.0,4.0,1.0,2096.49,2947.91,-28.88,Sous-evalue
+Elven,56250,56,Maison,vente,orpi,65.0,232100.0,3.0,1.0,3570.77,2992.78,19.31,Sur-evalue
+Vitry,62490,62,Maison,vente,orpi,93.0,211090.0,3.0,1.0,2269.78,2756.07,-17.64,Sous-evalue
+Tremblay,93290,93,Maison,vente,orpi,47.0,189000.0,2.0,1.0,4021.28,3649.08,10.2,Prix marche
+Toulouse,31200,31,Maison,vente,orpi,72.0,181000.0,3.0,1.0,2513.89,2992.78,-16.0,Sous-evalue
+Dombasle,54110,54,Maison,vente,orpi,109.0,165000.0,4.0,1.0,1513.76,2947.91,-48.65,Sous-evalue
+Pont-de-l'arche,27340,27,Maison,vente,entreparticuliers,65.0,160000.0,3.0,1.0,2461.54,4011.5,-38.64,Sous-evalue
+Le Moule,97160,97,Maison,vente,orpi,89.0,145000.0,4.0,1.0,1629.21,2992.78,-45.56,Sous-evalue
+Saint,63700,63,Maison,vente,orpi,112.0,120000.0,5.0,1.0,1071.43,2947.91,-63.65,Sous-evalue
+La Grand,30110,30,Maison,vente,orpi,71.0,115000.0,3.0,1.0,1619.72,2992.78,-45.88,Sous-evalue
+Tanques,61150,61,Maison,vente,orpi,87.0,44000.0,3.0,1.0,505.75,2489.89,-79.69,Sous-evalue
+Paris,75012,75,Appartement,vente,pap,115.6,1110000.0,5.0,3.0,9603.74,10677.98,-10.06,Prix marche
+Paris,75005,75,Appartement,vente,pap,84.4,1030000.0,5.0,3.0,12203.79,10722.85,13.81,Prix marche
+Paris,75010,75,Appartement,vente,pap,85.3,925000.0,4.0,2.0,10845.35,10722.85,1.14,Prix marche
+Paris,75010,75,Appartement,vente,pap,67.0,800000.0,4.0,2.0,11940.3,10722.85,11.35,Prix marche
+Charenton,94220,94,Appartement,vente,orpi,93.0,799000.0,4.0,1.0,8591.4,4171.49,105.96,Sur-evalue
+Paris,75006,75,Appartement,vente,pap,49.8,765000.0,3.0,1.0,15361.45,11034.78,39.21,Sur-evalue
+Paris,75001,75,Appartement,vente,entreparticuliers,68.0,750000.0,2.0,1.0,11029.41,10722.85,2.86,Prix marche
+Paris,75020,75,Appartement,vente,pap,85.0,735000.0,4.0,3.0,8647.06,10722.85,-19.36,Sous-evalue
+Toulouse,31000,31,Appartement,vente,pap,112.2,695000.0,5.0,3.0,6193.19,3966.63,56.13,Sur-evalue
+Paris,75017,75,Appartement,vente,pap,63.0,695000.0,3.0,2.0,11031.75,11034.78,-0.03,Prix marche
+Paris,75014,75,Appartement,vente,pap,83.0,685000.0,4.0,2.0,8253.01,10722.85,-23.03,Sous-evalue
+Paris,75001,75,Appartement,vente,entreparticuliers,55.0,648000.0,3.0,1.0,11781.82,11034.78,6.77,Prix marche
+Paris,75016,75,Appartement,vente,pap,60.0,640000.0,3.0,2.0,10666.67,11034.78,-3.34,Prix marche
+Antibes,06600,06,Appartement,vente,pap,121.0,605000.0,5.0,2.0,5000.0,5217.71,-4.17,Prix marche
+Clichy,92110,92,Appartement,vente,pap,105.1,599000.0,5.0,4.0,5699.88,6402.06,-10.97,Prix marche
+Paris,75019,75,Appartement,vente,pap,90.0,599000.0,3.0,2.0,6655.56,10722.85,-37.93,Sous-evalue
+Pantin,93500,93,Appartement,vente,pap,83.0,579000.0,3.0,2.0,6975.9,4205.8,65.86,Sur-evalue
+Paris,75004,75,Appartement,vente,pap,45.0,560000.0,3.0,2.0,12444.44,11184.85,11.26,Prix marche
+Bordeaux,33000,33,Appartement,vente,pap,100.1,550000.0,5.0,3.0,5494.51,4331.51,26.85,Sur-evalue
+Metz,57000,57,Appartement,vente,pap,98.5,550000.0,3.0,2.0,5583.76,4011.5,39.19,Sur-evalue
+Bayeux,14400,14,Appartement,vente,entreparticuliers,208.0,520000.0,9.0,1.0,2500.0,3138.41,-20.34,Sous-evalue
+Garches,92380,92,Appartement,vente,pap,104.0,520000.0,5.0,3.0,5000.0,6402.06,-21.9,Sous-evalue
+Paris,75020,75,Appartement,vente,pap,53.0,520000.0,3.0,2.0,9811.32,11034.78,-11.09,Prix marche
+Paris,75011,75,Appartement,vente,pap,42.0,510000.0,3.0,2.0,12142.86,11184.85,8.57,Prix marche
+Vanves,92170,92,Appartement,vente,orpi,76.0,499000.0,3.0,1.0,6565.79,6446.93,1.84,Prix marche
+Bois-colombes,92270,92,Appartement,vente,pap,71.0,499000.0,3.0,2.0,7028.17,6446.93,9.02,Prix marche
+Saint-paul,97400,97,Appartement,vente,pap,90.0,498000.0,4.0,3.0,5533.33,4011.5,37.94,Sur-evalue
+Paris,75015,75,Appartement,vente,pap,53.0,490000.0,2.0,1.0,9245.28,11034.78,-16.22,Sous-evalue
+Paris,75018,75,Appartement,vente,pap,52.0,490000.0,3.0,2.0,9423.08,11034.78,-14.61,Prix marche
+Boulogne-billancourt,92100,92,Appartement,vente,pap,48.2,480000.0,3.0,2.0,9950.25,6908.93,44.02,Sur-evalue
+Paris,75011,75,Appartement,vente,pap,43.5,470000.0,2.0,1.0,10804.6,11184.85,-3.4,Prix marche
+Paris,75013,75,Appartement,vente,pap,53.0,460000.0,2.0,1.0,8679.25,11034.78,-21.35,Sous-evalue
+Saint-maur-des-fossés,94100,94,Appartement,vente,pap,66.6,459000.0,3.0,2.0,6888.79,4720.32,45.94,Sur-evalue
+Uzès,30700,30,Appartement,vente,pap,76.0,458000.0,2.0,1.0,6026.32,4011.5,50.23,Sur-evalue
+Paris,75013,75,Appartement,vente,pap,42.0,450000.0,2.0,1.0,10714.29,11184.85,-4.21,Prix marche
+Lyon,69005,69,Appartement,vente,pap,93.0,430000.0,4.0,3.0,4623.66,4011.5,15.26,Sur-evalue
+Paris,75020,75,Appartement,vente,pap,45.0,415000.0,2.0,1.0,9214.03,11184.85,-17.62,Sous-evalue
+Paris,75016,75,Appartement,vente,pap,32.0,415000.0,1.0,1.0,12968.75,11270.7,15.07,Sur-evalue
+Garenne-colombes,92250,92,Appartement,vente,pap,59.0,400000.0,3.0,2.0,6779.66,6758.86,0.31,Prix marche
+Paris,75013,75,Appartement,vente,pap,29.1,399000.0,1.0,1.0,13711.34,11270.7,21.65,Sur-evalue
+Châtenay-malabry,92290,92,Appartement,vente,entreparticuliers,60.0,383000.0,3.0,1.0,6383.33,6758.86,-5.56,Prix marche
+Paris,75019,75,Appartement,vente,pap,40.0,379000.0,2.0,1.0,9475.0,11184.85,-15.29,Sous-evalue
+Paris,75014,75,Appartement,vente,pap,30.0,360000.0,1.0,1.0,12000.0,11270.7,6.47,Prix marche
+Paris,75003,75,Appartement,vente,pap,32.0,359000.0,2.0,1.0,11218.75,11270.7,-0.46,Prix marche
+Aubervilliers,93300,93,Appartement,vente,pap,61.1,349000.0,3.0,2.0,5711.95,4517.73,26.43,Sur-evalue
+Paris,75019,75,Appartement,vente,pap,29.0,334620.0,2.0,1.0,11538.62,11270.7,2.38,Prix marche
+Paris,75019,75,Appartement,vente,pap,27.0,329000.0,2.0,1.0,12185.19,11270.7,8.11,Prix marche
+Paris,75019,75,Appartement,vente,pap,46.2,328000.0,2.0,1.0,7099.57,11184.85,-36.53,Sous-evalue
+Gif-sur-yvette,91190,91,Appartement,vente,entreparticuliers,69.0,315000.0,3.0,1.0,4565.22,4011.5,13.8,Prix marche
+Chambéry,73000,73,Appartement,vente,entreparticuliers,85.0,299000.0,4.0,1.0,3517.65,4011.5,-12.31,Prix marche
+Brignais,69530,69,Appartement,vente,pap,81.0,299000.0,4.0,3.0,3691.36,4011.5,-7.98,Prix marche
+Alby-sur-chéran,74540,74,Appartement,vente,pap,81.0,299000.0,4.0,3.0,3691.36,4811.2,-23.28,Sous-evalue
+Marseille,13001,13,Appartement,vente,entreparticuliers,62.0,298000.0,3.0,1.0,4806.45,4323.42,11.17,Prix marche
+Vitry-sur-seine,94400,94,Appartement,vente,pap,67.0,295000.0,3.0,2.0,4402.99,4720.32,-6.72,Prix marche
+Paris,75010,75,Appartement,vente,pap,27.6,295000.0,2.0,1.0,10688.41,11270.7,-5.17,Prix marche
+Paris,75007,75,Appartement,vente,pap,25.0,295000.0,1.0,1.0,11800.0,11270.7,4.7,Prix marche
+Paris,75011,75,Appartement,vente,pap,39.0,290000.0,2.0,1.0,7435.9,11184.85,-33.52,Sous-evalue
+Strasbourg,67000,67,Appartement,vente,orpi,70.0,289900.0,3.0,1.0,4141.43,2992.78,38.38,Sur-evalue
+Reims,51100,51,Appartement,vente,orpi,128.0,280000.0,6.0,1.0,2187.5,2553.07,-14.32,Prix marche
+Paris,75012,75,Appartement,vente,pap,27.0,272000.0,2.0,1.0,10074.07,11270.7,-10.62,Prix marche
+Paris,75011,75,Appartement,vente,pap,20.3,270000.0,2.0,1.0,13293.94,11270.7,17.95,Sur-evalue
+Ostwald,67540,67,Appartement,vente,orpi,65.0,269000.0,3.0,1.0,4138.46,2992.78,38.28,Sur-evalue
+Paris,75006,75,Appartement,vente,pap,12.1,252000.0,1.0,1.0,20878.21,11270.7,85.24,Sur-evalue
+Paris,75015,75,Appartement,vente,pap,21.8,250000.0,1.0,1.0,11467.89,11270.7,1.75,Prix marche
+Villejuif,94800,94,Appartement,vente,pap,57.0,245000.0,3.0,2.0,4298.25,4715.95,-8.86,Prix marche
+Draguignan,83300,83,Appartement,vente,pap,129.0,240000.0,6.0,4.0,1860.47,3482.16,-46.57,Sous-evalue
+Courbevoie,92400,92,Appartement,vente,pap,30.0,239800.0,2.0,1.0,7993.33,8501.12,-5.97,Prix marche
+Cabourg,14390,14,Appartement,vente,orpi,43.0,239000.0,2.0,1.0,5558.14,3454.77,60.88,Sur-evalue
+Châtenay-malabry,92290,92,Appartement,vente,pap,46.5,235000.0,2.0,1.0,5053.76,6908.93,-26.85,Sous-evalue
+Paris,75017,75,Appartement,vente,pap,23.4,235000.0,1.0,1.0,10051.33,11270.7,-10.82,Prix marche
+Saint-leu,97436,97,Appartement,vente,pap,39.0,230000.0,1.0,1.0,5897.44,4473.49,31.83,Sur-evalue
+Ornon,33140,33,Appartement,vente,pap,62.3,229900.0,3.0,2.0,3690.21,4585.13,-19.52,Sous-evalue
+Lyon,69006,69,Appartement,vente,pap,51.0,229000.0,2.0,1.0,4490.2,4323.42,3.86,Prix marche
+Bry-sur-marne,94360,94,Appartement,vente,pap,47.0,220000.0,2.0,1.0,4680.85,5164.77,-9.37,Prix marche
+Parempuyre,33290,33,Appartement,vente,pap,60.0,209000.0,3.0,2.0,3483.33,4585.13,-24.03,Sous-evalue
+Conflans-sainte-honorine,78700,78,Appartement,vente,pap,49.0,205000.0,2.0,1.0,4183.67,4610.23,-9.25,Prix marche
+Saint-paul,97400,97,Appartement,vente,pap,31.0,205000.0,1.0,1.0,6612.9,4559.34,45.04,Sur-evalue
+Wattignies,59139,59,Appartement,vente,pap,63.0,200000.0,3.0,2.0,3174.6,4323.42,-26.57,Sous-evalue
+Créteil,94000,94,Appartement,vente,pap,49.0,200000.0,2.0,1.0,4081.63,4715.95,-13.45,Prix marche
+Choisy,94600,94,Appartement,vente,orpi,61.0,199000.0,3.0,1.0,3262.3,3697.23,-11.76,Prix marche
+Lille,59000,59,Appartement,vente,orpi,50.0,199000.0,2.0,1.0,3980.0,3304.7,20.43,Sur-evalue
+Sospel,06380,06,Appartement,vente,entreparticuliers,96.0,197000.0,4.0,1.0,2052.08,5217.71,-60.67,Sous-evalue
+Saint,66750,66,Appartement,vente,orpi,48.0,195000.0,3.0,1.0,4062.5,3454.77,17.59,Sur-evalue
+Strasbourg,67000,67,Appartement,vente,orpi,48.0,189000.0,3.0,1.0,3937.5,3454.77,13.97,Prix marche
+Dax,40100,40,Appartement,vente,entreparticuliers,62.0,186000.0,3.0,1.0,3000.0,4323.42,-30.61,Sous-evalue
+Palavas,34250,34,Appartement,vente,orpi,29.0,184000.0,2.0,1.0,6344.83,3540.62,79.2,Sur-evalue
+La Verpillière,38290,38,Appartement,vente,orpi,76.0,178900.0,4.0,1.0,2353.95,2637.96,-10.77,Prix marche
+Paris,75018,75,Appartement,vente,pap,19.4,169000.0,1.0,1.0,8733.85,11270.7,-22.51,Sous-evalue
+Saint,83700,83,Appartement,vente,orpi,66.0,165000.0,4.0,1.0,2500.0,2992.78,-16.47,Sous-evalue
+Caen,14000,14,Appartement,vente,entreparticuliers,32.0,160000.0,2.0,1.0,5000.0,4559.34,9.66,Prix marche
+Paris,75012,75,Appartement,vente,pap,15.8,159000.0,1.0,1.0,10082.44,11270.7,-10.54,Prix marche
+Grenoble,38000,38,Appartement,vente,entreparticuliers,77.0,155000.0,3.0,1.0,2012.99,3395.11,-40.71,Sous-evalue
+Paris,75020,75,Appartement,vente,pap,16.0,150000.0,1.0,1.0,9375.0,11270.7,-16.82,Sous-evalue
+Paris,75016,75,Appartement,vente,pap,11.2,149000.0,1.0,1.0,13303.57,11270.7,18.04,Sur-evalue
+Paris,75015,75,Appartement,vente,pap,11.0,146000.0,1.0,1.0,13272.73,11270.7,17.76,Sur-evalue
+Possession,97419,97,Appartement,vente,pap,40.2,135000.0,2.0,1.0,3358.21,4473.49,-24.93,Sous-evalue
+Bourg-de-péage,26300,26,Appartement,vente,entreparticuliers,72.0,131000.0,4.0,1.0,1819.44,4011.5,-54.64,Sous-evalue
+Mende,48000,48,Appartement,vente,orpi,66.0,130000.0,4.0,1.0,1969.7,2992.78,-34.18,Sous-evalue
+Grenoble,38000,38,Appartement,vente,entreparticuliers,75.0,125000.0,3.0,1.0,1666.67,3395.11,-50.91,Sous-evalue
+Courdimanche,95800,95,Appartement,vente,orpi,28.0,125000.0,1.0,1.0,4464.29,3540.62,26.09,Sur-evalue
+Châteaurenard,13160,13,Appartement,vente,entreparticuliers,44.0,107900.0,2.0,1.0,2452.27,4473.49,-45.18,Sous-evalue
+Paris,75015,75,Appartement,vente,pap,9.5,90000.0,1.0,1.0,9453.78,11270.7,-16.12,Sous-evalue
+Vienne,38200,38,Appartement,vente,orpi,28.0,85000.0,2.0,1.0,3035.71,3349.59,-9.37,Prix marche
+Dax,40100,40,Appartement,vente,orpi,25.0,82500.0,1.0,1.0,3300.0,3540.62,-6.8,Prix marche
+Argentan,61200,61,Appartement,vente,orpi,37.0,82400.0,2.0,1.0,2227.03,2951.88,-24.56,Sous-evalue
+Reims,51100,51,Appartement,vente,entreparticuliers,40.0,79920.0,2.0,1.0,1998.0,3972.54,-49.7,Sous-evalue
